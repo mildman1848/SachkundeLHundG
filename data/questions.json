@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "text": "Was sind typische Jagdverhaltensweisen?",
+    "answers": [
+      "Suchen nach Beute.",
+      "Hetzen.",
+      "Schütteln der Beute.",
+      "Anschleichen und Vorstehen."
+    ],
+    "correct": [0, 1, 2, 3]
+  },
+  {
+    "id": 2,
+    "text": "Sind alle Hunde gleich oder gibt es rassetypische Eigenschaften?",
+    "answers": [
+      "Alle Hunde sind gleich.",
+      "Je nach Rasse weisen Hunde unterschiedliche Veranlagungen auf, z. B. in Bezug auf Jagdverhalten und Aktivität.",
+      "Verschiedene Rassen unterscheiden sich nur durch ihr äußeres Erscheinungsbild.",
+      "Rassetypische Eigenschaften gibt es nicht, aber anhand der Größe kann man eine Einteilung in 'kinderfreundlich', 'gefährlich', 'leicht zu erziehen' etc. treffen."
+    ],
+    "correct": [1]
+  },
+  {
+    "id": 3,
+    "text": "Ein Welpe oder ein Kind ist einem Hund gegenüber sehr aufdringlich. Welche Verhaltensweisen erwachsener Hunde sind normal und absolut hundetypisch?",
+    "answers": [
+      "Knurren.",
+      "Die Lefzen kräuseln.",
+      "Der Hund tut nichts, weil Kinder und Welpen bei erwachsenen Hunden uneingeschränkt Narrenfreiheit haben.",
+      "Steigerung aggressiver Verhaltensweisen, wie z.B. Schnappen oder Beißen, wenn Drohen des Hundes bestraft, gelobt/beruhigt, ignoriert oder nicht wahrgenommen wird."
+    ],
+    "correct": [0, 1, 3]
+  }
+  // ... Fragen 4 bis 197 folgen im gleichen Schema
+]
