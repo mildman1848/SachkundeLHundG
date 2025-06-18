@@ -4,7 +4,6 @@ dist/
 build/
 .expo/
 .expo-shared/
-package.json
 
 # IDE/Editor
 .vscode/
