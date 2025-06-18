@@ -4,6 +4,7 @@ dist/
 build/
 .expo/
 .expo-shared/
+package.json
 
 # IDE/Editor
 .vscode/
@@ -34,3 +35,6 @@ yarn-error.log*
 # EAS build cache
 *.tar.gz
 *.aab
+
+local-build.sh
+__tests__/
