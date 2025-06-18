@@ -1,1184 +1,2069 @@
 [
   {
     "id": 1,
+    "category": "Verhalten",
     "text": "Was sind typische Jagdverhaltensweisen?",
     "answers": ["Suchen nach Beute.", "Hetzen.", "Schütteln der Beute.", "Anschleichen und Vorstehen."],
     "correct": [0, 1, 2, 3]
   },
   {
     "id": 2,
+    "category": "Verhalten",
     "text": "Sind alle Hunde gleich oder gibt es rassetypische Eigenschaften?",
     "answers": ["Alle Hunde sind gleich.", "Je nach Rasse weisen Hunde unterschiedliche Veranlagungen auf, z. B. in Bezug auf Jagdverhalten und Aktivität.", "Verschiedene Rassen unterscheiden sich nur durch ihr äußeres Erscheinungsbild.", "Rassetypische Eigenschaften gibt es nicht, aber anhand der Größe kann man eine Einteilung in 'kinderfreundlich', 'gefährlich', 'leicht zu erziehen' etc. treffen."],
     "correct": [1]
   },
   {
     "id": 3,
+    "category": "Verhalten",
     "text": "Ein Welpe oder ein Kind ist einem Hund gegenüber sehr aufdringlich. Welche Verhaltensweisen erwachsener Hunde sind normal und absolut hundetypisch?",
     "answers": ["Knurren.", "Die Lefzen kräuseln.", "Der Hund tut nichts, weil Kinder und Welpen bei erwachsenen Hunden uneingeschränkt Narrenfreiheit haben.", "Steigerung aggressiver Verhaltensweisen, wie z.B. Schnappen oder Beißen, wenn Drohen des Hundes bestraft, gelobt/beruhigt, ignoriert oder nicht wahrgenommen wird."],
     "correct": [0, 1, 3]
   },
   {
     "id": 4,
+    "category": "Haltung",
     "text": "Bis zu welchem Alter bezeichnet man Hunde als 'Welpen'?",
     "answers": ["bis zu einem Jahr.", "von Geburt an bis zur 16. Woche.", "Bis zur Geschlechtsreife.", "Hunde, die noch von der Mutterhündin gesäugt werden."],
     "correct": [1]
   },
   {
     "id": 5,
+    "category": "Erziehung",
     "text": "Ist der Einsatz von Stromreizgeräten, unangenehmen Hochfrequenztönen und anderen Schmerz- und Schreckreizen für die Hundeerziehung sinnvoll?",
     "answers": ["Es ist eine einfache und schnelle Methode, die sehr erfolgreich in der Erziehung eingesetzt werden kann.", "Der Hund weiß dann, dass er nicht mehr machen kann, was er will.", "Die Gefahr von Fehlverknüpfungen und Angstverhalten als Folge ist zu groß.", "Strafreize lösen beim Hund Stress aus, der je nach verwendetem Reiz und individueller Sensibilität erheblich sein kann."],
     "correct": [2, 3]
   },
   {
     "id": 6,
-    "text": "Welchen Ausdruck zeigt dieser Hund?",
-    "answers": ["Der Hund ist neutral bis aufmerksam.", "Der Hund ist ängstlich.", "Der Hund droht sicher.", "Der Hund ist unterwürfig."],
+    "category": "Ausdruck Bilder",
+    "text": "Was kann man auf einem Bild am besten erkennen?",
+    "answers": ["Die Farbe des Hundes.", "Die Rasse des Hundes.", "Die Stimmung des Hundes.", "Das Alter des Hundes."],
     "correct": [2]
   },
   {
     "id": 7,
-    "text": "Was versteht man unter Meideverhalten?",
-    "answers": ["Der Hund geht in eine offensive Drohhaltung über.", "Der Hund entfernt sich oder vermeidet den angstauslösenden Reiz.", "Der Hund stellt sich tot.", "Der Hund ignoriert andere Hunde."],
+    "category": "Kommunikation",
+    "text": "Woran erkennt man, dass ein Hund entspannt ist?",
+    "answers": ["An hochgestelltem Schwanz und aufgerichteten Ohren.", "An weich wirkendem Körper, ruhigem Verhalten und entspannter Haltung.", "Wenn er andere Hunde verbellt.", "Wenn er sich auf den Rücken wirft."],
     "correct": [1]
   },
   {
     "id": 8,
-    "text": "Was bedeutet es, wenn ein Hund gähnt?",
-    "answers": ["Er ist müde.", "Er möchte Stress abbauen oder zeigt Übersprungverhalten.", "Er zeigt Angriffslust.", "Er demonstriert Langeweile."],
+    "category": "Kommunikation",
+    "text": "Was bedeutet ein Knurren beim Hund?",
+    "answers": ["Er will spielen.", "Er zeigt ein Unwohlsein und fordert Abstand.", "Knurren ist immer aggressiv gemeint.", "Der Hund hat Angst und zeigt sich unterwürfig."],
     "correct": [1]
   },
   {
     "id": 9,
-    "text": "Welche Körperhaltung ist typisch für einen unsicheren Hund?",
-    "answers": ["Er stellt den Schwanz auf und geht in die Offensive.", "Er duckt sich leicht ab und senkt den Kopf.", "Er reckt sich stolz und aufrecht.", "Er zeigt Unterwürfigkeit durch Wegschauen."],
-    "correct": [1, 3]
-  },
-  {
-    "id": 10,
-    "text": "Was kann ein Hund tun, wenn er Angst hat?",
-    "answers": ["Er lacht.", "Er flieht oder greift an.", "Er schlägt mit dem Schwanz.", "Er erstarrt."],
-    "correct": [1, 3]
-  },
-  {
-    "id": 11,
-    "text": "Was bedeutet es, wenn ein Hund die Lefzen hebt?",
-    "answers": ["Er hat Zahnschmerzen.", "Er freut sich.", "Er will Aufmerksamkeit.", "Er zeigt Drohverhalten."],
-    "correct": [3]
-  },
-  {
-    "id": 12,
-    "text": "Wie zeigt ein Hund Unterwürfigkeit?",
-    "answers": ["Er legt sich auf den Rücken.", "Er schnappt nach vorne.", "Er senkt den Blick.", "Er zieht den Schwanz ein."],
-    "correct": [0, 2]
-  },
-  {
-    "id": 13,
-    "text": "Was ist bei Begegnungen mit anderen Hunden zu beachten?",
-    "answers": ["Die Körpersprache beobachten.", "Nicht mit der Leine dazwischen gehen.", "Hunden Raum geben.", "Hunde nie frontal aufeinandertreffen lassen."],
-    "correct": [0, 1, 2, 3]
-  },
-  {
-    "id": 14,
-    "text": "Wie äußert sich Stress bei Hunden?",
-    "answers": ["Hecheln.", "Freudiges Bellen.", "Zittern.", "Übersprungshandlungen."],
-    "correct": [0, 2, 3]
-  },
-  {
-    "id": 15,
-    "text": "Was bedeutet Beschwichtigung?",
-    "answers": ["Harmonisches Verhalten zeigen zur Deeskalation.","Der Hund zeigt friedliches Verhalten, um Konflikte zu vermeiden.", "Der Hund versucht, den anderen zu beruhigen.", "Der Hund übernimmt Verantwortung.", "Der Hund stellt sich tot."],
-    "correct": [0]
-  },
-  {
-    "id": 16,
-    "text": "Welche Reaktion ist typisch für Angstverhalten?",
-    "answers": ["Zustimmendes Schwanzwedeln.", "Meideverhalten.", "Spielen mit anderen.", "Gähnen aus Müdigkeit."],
+    "category": "Kommunikation",
+    "text": "Was bedeutet es, wenn ein Hund die Lefzen hochzieht?",
+    "answers": ["Er möchte die Zähne zeigen, um zu lachen.", "Er droht und zeigt Aggressionsverhalten.", "Er freut sich.", "Er zeigt Spielverhalten."],
     "correct": [1]
   },
   {
-    "id": 17,
-    "text": "Was ist Spielverhalten bei Hunden?",
-    "answers": ["Tarnen und Täuschen.", "Rollentausch.", "Schnelles Hecheln.", "Übertriebene Bewegungen."],
-    "correct": [0, 1, 3]
-  },
-  {
-    "id": 18,
-    "text": "Was versteht man unter Habituation?",
-    "answers": ["Der Hund lernt, einen Reiz zu ignorieren, der keine Konsequenzen hat.", "Er lernt durch Strafe.", "Er zeigt Angst.", "Er gewöhnt sich an Personen."],
+    "id": 10,
+    "category": "Verhalten",
+    "text": "Welche typischen Beschwichtigungssignale zeigen Hunde?",
+    "answers": ["Gähnen, Wegschauen, Lippenlecken.", "Zähne fletschen, bellen.", "Knurren, sich klein machen.", "Aufspringen, bellen."],
     "correct": [0]
   },
   {
+    "id": 11,
+    "category": "Verhalten",
+    "text": "Welche Signale zählen zu den Deeskalationssignalen bei Hunden?",
+    "answers": ["Gähnen, Wegschauen, sich Abwenden.", "Bellen, Knurren.", "Pfotenheben, Laut geben.", "Zähne fletschen."],
+    "correct": [0]
+  },
+  {
+    "id": 12,
+    "category": "Körpersprache",
+    "text": "Was bedeutet es, wenn ein Hund sich über einen anderen beugt?",
+    "answers": ["Spielaufforderung.", "Dominanzverhalten.", "Freundschaftliches Verhalten.", "Angstverhalten."],
+    "correct": [1]
+  },
+  {
+    "id": 13,
+    "category": "Verhalten",
+    "text": "Ein Hund bellt häufig an der Leine. Was kann das bedeuten?",
+    "answers": ["Der Hund ist schlecht erzogen.", "Er hat Angst oder fühlt sich bedrängt.", "Er möchte sich mitteilen.", "Er kennt keine anderen Hunde."],
+    "correct": [1]
+  },
+  {
+    "id": 14,
+    "category": "Verhalten",
+    "text": "Wodurch kann Angstverhalten beim Hund entstehen?",
+    "answers": ["Durch schlechte Erfahrungen, mangelnde Sozialisierung, genetische Veranlagung.", "Durch zu viel Spiel.", "Durch das Alleinsein.", "Durch zu häufiges Füttern."],
+    "correct": [0]
+  },
+  {
+    "id": 15,
+    "category": "Verhalten",
+    "text": "Wie zeigt sich Übersprungverhalten bei Hunden?",
+    "answers": ["Bellen auf Kommando.", "Plötzliches Kratzen, Gähnen oder Lecken in unklaren Situationen.", "Knurren in Spielsituationen.", "Pföteln beim Fressen."],
+    "correct": [1]
+  },
+  {
+    "id": 16,
+    "category": "Ausdruck Bilder",
+    "text": "Welche Aussage lässt sich anhand eines Bildes mit erhobener Rute und aufgerichteten Ohren treffen?",
+    "answers": ["Der Hund schläft.", "Der Hund ist unterwürfig.", "Der Hund zeigt ein hohes Erregungsniveau oder Dominanzverhalten.", "Der Hund möchte spielen."],
+    "correct": [2]
+  },
+  {
+    "id": 17,
+    "category": "Verhalten",
+    "text": "Wie zeigen sich Unsicherheiten beim Hund?",
+    "answers": ["Zielstrebiges Vorwärtsgehen.", "Bellen, Rückzug, Körper ducken.", "Freudiges Schwanzwedeln.", "Fiepen, Hüpfen."],
+    "correct": [1]
+  },
+  {
+    "id": 18,
+    "category": "Verhalten",
+    "text": "Was kann ein Hund mit fixer Blickrichtung und angespannten Muskeln ausdrücken?",
+    "answers": ["Angst.", "Spielaufforderung.", "Unsicherheit oder Angriffsdrohung.", "Unterwürfigkeit."],
+    "correct": [2]
+  },
+  {
     "id": 19,
-    "text": "Wie kommuniziert ein Hund?",
-    "answers": ["Körperhaltung.", "Sprachausgabe.", "Bellen.", "Mimik."],
-    "correct": [0, 2]
+    "category": "Körpersprache",
+    "text": "Welche Körperhaltung zeigt Bereitschaft zur Aggression?",
+    "answers": ["Kopf tief, Ohren nach hinten.", "Körper geduckt, Schwanz eingeklemmt.", "Vorne hoch, steifer Gang, Fixieren.", "Sich auf den Rücken legen."],
+    "correct": [2]
   },
   {
     "id": 20,
-    "text": "Welche Aussagen treffen auf das Lernverhalten von Hunden zu?",
-    "answers": ["Hunde lernen durch Konsequenz.", "Lernen erfolgt auch über Nachahmung.", "Hunde können konditioniert werden.", "Lernen ist rein genetisch."],
-    "correct": [0, 1, 2]
+    "category": "Körpersprache",
+    "text": "Was bedeutet ein eingeklemmter Schwanz beim Hund?",
+    "answers": ["Spielbereitschaft.", "Angst, Unsicherheit oder Stress.", "Dominanz.", "Freude."],
+    "correct": [1]
   },
   {
     "id": 21,
-    "text": "Wie zeigt ein Hund, dass er spielen möchte?",
-    "answers": ["Er zeigt die Vorderkörpertiefstellung.", "Er bellt in hohen Tönen.", "Er wedelt mit dem Schwanz.", "Er schnappt gezielt."],
-    "correct": [0, 1, 2]
+    "category": "Körpersprache",
+    "text": "Was bedeutet es, wenn ein Hund die Ohren anlegt?",
+    "answers": ["Freude.", "Er will spielen.", "Unterwürfigkeit oder Unsicherheit.", "Aggressivität."],
+    "correct": [2]
   },
   {
     "id": 22,
-    "text": "Was sind typische Beschwichtigungssignale eines Hundes?",
-    "answers": ["Wegschauen.", "Gähnen.", "Sich ablecken.", "Sich abwenden."],
-    "correct": [0, 1, 2, 3]
+    "category": "Körpersprache",
+    "text": "Wie verhält sich ein Hund, der Angst hat?",
+    "answers": ["Er zeigt verspieltes Verhalten.", "Er versteckt sich, zittert oder versucht zu flüchten.", "Er sucht den Konflikt.", "Er verhält sich neutral."],
+    "correct": [1]
   },
   {
     "id": 23,
-    "text": "Wie verhält sich ein Hund bei großer Unsicherheit?",
-    "answers": ["Er greift sofort an.", "Er weicht zurück.", "Er bellt fröhlich.", "Er zeigt Meideverhalten."],
-    "correct": [1, 3]
+    "category": "Verhalten",
+    "text": "Wie kann man Angstverhalten beim Hund vermeiden?",
+    "answers": ["Indem man den Hund häufig erschreckt, damit er sich daran gewöhnt.", "Durch Strafen, wenn er Angst zeigt.", "Durch frühzeitige Gewöhnung an Umweltreize und positives Training.", "Indem man ihm nichts Neues zeigt."],
+    "correct": [2]
   },
   {
     "id": 24,
-    "text": "Was versteht man unter Übersprungverhalten?",
-    "answers": ["Verhalten, das nicht zur Situation passt.", "Verhalten in einem Konfliktmoment.", "Gezieltes Verhalten zur Lösung von Konflikten.", "Reaktion bei Schmerzen."],
-    "correct": [0, 1]
+    "category": "Verhalten",
+    "text": "Was bedeutet Meideverhalten beim Hund?",
+    "answers": ["Der Hund meidet bestimmte Situationen oder Personen aufgrund negativer Erfahrungen oder Unsicherheit.", "Er möchte spielen.", "Er hat keine Lust.", "Es handelt sich um typisches Jagdverhalten."],
+    "correct": [0]
   },
   {
     "id": 25,
-    "text": "Was sind mögliche Stresssignale beim Hund?",
-    "answers": ["Starkes Hecheln.", "Körperanspannung.", "Vermehrtes Kratzen.", "Sich Hinlegen."],
-    "correct": [1, 2, 3]
+    "category": "Verhalten",
+    "text": "Woran erkennt man Stress beim Hund?",
+    "answers": ["Gähnen, Hecheln, Unruhe, Zittern, sich Kratzen.", "Fröhliches Schwanzwedeln.", "Lautes Bellen bei Spiel.", "Sich über den Boden wälzen."],
+    "correct": [0]
   },
   {
     "id": 26,
-    "text": "Was bedeutet der Begriff 'soziale Kommunikation' beim Hund?",
-    "answers": ["Kontakt mit dem Halter.", "Reaktion auf Umweltreize.", "Rufen bei Gefahr.", "Signalverhalten zur Verständigung mit Artgenossen."],
-    "correct": [3]
+    "category": "Ausdruck Bilder",
+    "text": "Ein Hund hat eine aufrechte Haltung, steifen Schwanz und fixiert einen anderen. Was bedeutet das?",
+    "answers": ["Er will spielen.", "Er ist ängstlich.", "Er zeigt Dominanz oder ist angespannt.", "Er ist entspannt."],
+    "correct": [2]
   },
   {
     "id": 27,
-    "text": "Was bedeutet es, wenn ein Hund die Rute einzieht?",
-    "answers": ["Er freut sich.", "Er zeigt Angst oder Unsicherheit.", "Er ist aufgeregt.", "Er ist in Spielstimmung."],
-    "correct": [0, 1, 3]
+    "category": "Lernverhalten",
+    "text": "Wie lernen Hunde?",
+    "answers": ["Nur durch Strafe.", "Durch Konditionierung, also Verknüpfung von Reizen und Konsequenzen.", "Durch Nachdenken.", "Gar nicht."],
+    "correct": [1]
   },
   {
     "id": 28,
-    "text": "Was kann ein Hund mit Winseln ausdrücken?",
-    "answers": ["Freude.", "Aufregung.", "Verteidigungsverhalten.", "Unwohlsein."],
-    "correct": [0, 1, 3]
+    "category": "Lernverhalten",
+    "text": "Was versteht man unter positiver Verstärkung?",
+    "answers": ["Etwas Angenehmes folgt auf ein Verhalten, wodurch dieses häufiger gezeigt wird.", "Der Hund wird ignoriert.", "Ein unerwünschtes Verhalten wird bestraft.", "Der Hund wird angeschrien."],
+    "correct": [0]
   },
   {
     "id": 29,
-    "text": "Welche der folgenden Merkmale können auf Aggression hindeuten?",
-    "answers": ["Fixierender Blick.", "Zähne zeigen.", "Pfotenheben.", "Schwanzwedeln."],
-    "correct": [0, 1]
+    "category": "Lernverhalten",
+    "text": "Was ist eine Belohnung für einen Hund?",
+    "answers": ["Nur Futter.", "Alles, was der Hund in dem Moment angenehm findet (z. B. Futter, Spiel, Zuwendung).", "Ein Tadel.", "Ein Kommando."],
+    "correct": [1]
   },
   {
     "id": 30,
-    "text": "Was kann ein Hund mit Knurren ausdrücken?",
-    "answers": ["Warnung.", "Spielaufforderung.", "Stress.", "Unmut."],
-    "correct": [0, 2, 3]
+    "category": "Lernverhalten",
+    "text": "Was ist wichtig beim Timing der Belohnung?",
+    "answers": ["Sie sollte 1–2 Minuten nach dem Verhalten erfolgen.", "Das Timing ist egal.", "Sie sollte unmittelbar nach dem erwünschten Verhalten erfolgen.", "Sie sollte vor dem Verhalten gegeben werden."],
+    "correct": [2]
   },
   {
     "id": 31,
-    "text": "Wie zeigen Hunde, dass sie sich unsicher fühlen?",
-    "answers": ["Zittern.", "Vermeiden von Blickkontakt.", "Rückwärtsgehen.", "Knurren in Kombination mit Rückzug."],
-    "correct": [0, 1, 3]
+    "category": "Lernverhalten",
+    "text": "Was passiert bei inkonsequenter Erziehung?",
+    "answers": ["Der Hund lernt schneller.", "Es hat keine Auswirkungen.", "Der Hund lernt schlechter, weil die Regeln unklar sind.", "Der Hund hört besser, weil er überrascht wird."],
+    "correct": [2]
   },
   {
     "id": 32,
-    "text": "Was bedeutet es, wenn ein Hund sich schüttelt?",
-    "answers": ["Er trocknet sich ab.", "Er löst Spannungen.", "Er fühlt sich unwohl.", "Er freut sich."],
-    "correct": [0, 1, 2]
+    "category": "Lernverhalten",
+    "text": "Was ist klassische Konditionierung?",
+    "answers": ["Ein Verhalten wird durch eine Konsequenz beeinflusst.", "Ein neutraler Reiz wird mit einem bedeutungsvollen Reiz verknüpft.", "Ein Verhalten wird durch Ignorieren abgeschwächt.", "Ein Verhalten wird gelöscht."],
+    "correct": [1]
   },
   {
     "id": 33,
-    "text": "Wie reagiert ein souveräner Hund auf einen unsicheren Artgenossen?",
-    "answers": ["Er droht sofort.", "Er ignoriert ihn.", "Er geht deeskalierend vor.", "Er zeigt Unterwerfung."],
+    "category": "Lernverhalten",
+    "text": "Was ist operante Konditionierung?",
+    "answers": ["Der Hund verknüpft Reize ohne eigenes Zutun.", "Der Hund wird nur bestraft.", "Der Hund lernt durch Konsequenzen seines Verhaltens.", "Der Hund beobachtet andere."],
     "correct": [2]
   },
   {
     "id": 34,
-    "text": "Was zeigt ein Hund bei der Vorderkörpertiefstellung?",
-    "answers": ["Angst.", "Spielaufforderung.", "Aggression.", "Unterwürfigkeit."],
-    "correct": [1]
+    "category": "Lernverhalten",
+    "text": "Wie kann man unerwünschtes Verhalten abbauen?",
+    "answers": ["Ignorieren, Alternativverhalten belohnen, klare Regeln setzen.", "Den Hund schlagen.", "Belohnen.", "Immer Leine ziehen."],
+    "correct": [0]
   },
   {
     "id": 35,
-    "text": "Welche Kommunikationsmittel nutzt ein Hund?",
-    "answers": ["Bellen.", "Körpersprache.", "Geruchssignale.", "Laute Sprache."],
-    "correct": [0, 1, 2]
+    "category": "Lernverhalten",
+    "text": "Was ist Desensibilisierung?",
+    "answers": ["Steigerung der Angst.", "Langsame Gewöhnung an einen angstauslösenden Reiz.", "Vermeidung von Belohnung.", "Anschreien bei Angstverhalten."],
+    "correct": [1]
   },
   {
     "id": 36,
-    "text": "Was ist ein sicheres Anzeichen für Unwohlsein beim Hund?",
-    "answers": ["Hecheln bei Bewegung.", "Schlafen tagsüber.", "Zittern in neutraler Umgebung.", "Schwanzwedeln."],
-    "correct": [0, 2, 3]
+    "category": "Lernverhalten",
+    "text": "Was bedeutet Gegenkonditionierung?",
+    "answers": ["Konditionierung rückgängig machen.", "Einen neuen, positiven Reiz mit einem unangenehmen Reiz koppeln.", "Das Verhalten ignorieren.", "Belohnen mit Strafe."],
+    "correct": [1]
   },
   {
     "id": 37,
-    "text": "Welche Signale zeigen Deeskalation?",
-    "answers": ["Wegschauen.", "Abwenden.", "Gähnen.", "Schnüffeln am Boden."],
-    "correct": [0, 1, 2, 3]
+    "category": "Erziehung",
+    "text": "Warum ist Belohnung effektiver als Strafe?",
+    "answers": ["Strafe funktioniert nicht.", "Belohnung erhöht die Motivation, gewünschtes Verhalten zu zeigen.", "Hunde hassen Strafe.", "Strafe ist verboten."],
+    "correct": [1]
   },
   {
     "id": 38,
-    "text": "Wie zeigt ein Hund Freude?",
-    "answers": ["Aufgerichtete Ohren.", "Schnappen.", "Wachsamkeit.", "Sprünge und wedelnde Rute."],
-    "correct": [0, 2, 3]
+    "category": "Erziehung",
+    "text": "Warum ist Konsequenz wichtig?",
+    "answers": ["Damit der Hund nicht verwirrt wird und Regeln versteht.", "Weil es der Gesetzgeber fordert.", "Weil alle Hunde gleich lernen.", "Weil man dadurch strenger wird."],
+    "correct": [0]
   },
   {
     "id": 39,
-    "text": "Was kann ein Hund mit Hochheben der Pfote ausdrücken?",
-    "answers": ["Spiel.", "Verunsicherung.", "Konzentration.", "Aggression."],
-    "correct": [1, 2, 3]
+    "category": "Erziehung",
+    "text": "Wie reagiert man auf erwünschtes Verhalten am besten?",
+    "answers": ["Sofort loben oder belohnen.", "Ignorieren.", "Warten, bis der Hund es wiederholt.", "Strafen."],
+    "correct": [0]
   },
   {
     "id": 40,
-    "text": "Welche Körperteile setzt ein Hund besonders zur Kommunikation ein?",
-    "answers": ["Augen.", "Rute.", "Zähne.", "Ohren."],
-    "correct": [1, 3]
-  }  ,
+    "category": "Erziehung",
+    "text": "Was ist ein Alternativverhalten?",
+    "answers": ["Ein anderes, unerwünschtes Verhalten.", "Ein Verhalten, das erwünscht ist und das problematische Verhalten ersetzen kann.", "Ein Kommando.", "Ein Ausdruck von Frust."],
+    "correct": [1]
+  },
   {
     "id": 41,
-    "text": "Was bedeutet es, wenn ein Hund die Ohren nach hinten legt?",
-    "answers": ["Er ist aggressiv.", "Er hat Schmerzen.", "Er zeigt Unterwürfigkeit oder Unsicherheit.", "Er möchte spielen."],
-    "correct": [2]
+    "category": "Erziehung",
+    "text": "Was bedeutet Generalisierung im Lernverhalten?",
+    "answers": ["Ein Verhalten wird nur zu Hause gezeigt.", "Ein gelerntes Verhalten wird in unterschiedlichen Situationen gezeigt.", "Der Hund vergisst das Verhalten.", "Es wird nur bei bestimmten Personen gezeigt."],
+    "correct": [1]
   },
   {
     "id": 42,
-    "text": "Welche Reaktionen können durch Angst ausgelöst werden?",
-    "answers": ["Flucht.", "Meideverhalten.", "Verteidigung.", "Stress."],
-    "correct": [1, 2, 3]
+    "category": "Erziehung",
+    "text": "Warum ist es sinnvoll, neue Kommandos zunächst in ablenkungsarmer Umgebung zu üben?",
+    "answers": ["Weil der Hund sonst nie lernt.", "Weil Hunde schlecht hören.", "Weil der Hund sich sonst nicht konzentrieren kann.", "Weil Training nur in Innenräumen funktioniert."],
+    "correct": [2]
   },
   {
     "id": 43,
-    "text": "Wie zeigt sich Beschwichtigung beim Hund?",
-    "answers": ["Pfote geben.", "Knurren.", "Blick abwenden.", "Sich ducken."],
-    "correct": [0, 2, 3]
+    "category": "Erziehung",
+    "text": "Wie lange kann ein Hund sich konzentrieren?",
+    "answers": ["Mehrere Stunden.", "Unbegrenzt.", "Etwa 10–15 Minuten, je nach Alter, Motivation und Trainingsstand.", "Nur ein paar Sekunden."],
+    "correct": [2]
   },
   {
     "id": 44,
-    "text": "Was ist ein Hinweis auf drohendes aggressives Verhalten?",
-    "answers": ["Fixierender Blick.", "Leises Knurren.", "Zungenschnalzen.", "Steife Körperhaltung."],
-    "correct": [0, 1, 3]
+    "category": "Erziehung",
+    "text": "Was ist wichtig beim Aufbau eines Kommandos?",
+    "answers": ["Strenge Tonlage.", "Verknüpfung von Reiz und Konsequenz mit klarer Wiederholung und Belohnung.", "Der Einsatz von Leckerlis alleine reicht.", "Körperliche Korrektur."],
+    "correct": [1]
   },
   {
     "id": 45,
-    "text": "Wie zeigt ein Hund Angstverhalten?",
-    "answers": ["Zusammenkauern.", "Bellen.", "Hecheln.", "Rückzug."],
-    "correct": [0, 2, 3]
+    "category": "Erziehung",
+    "text": "Was passiert, wenn ein Verhalten ignoriert wird?",
+    "answers": ["Es wird stärker.", "Es kann gelöscht werden, wenn keine Belohnung folgt.", "Es wird immer wieder gezeigt.", "Der Hund freut sich."],
+    "correct": [1]
   },
   {
     "id": 46,
-    "text": "Was bedeutet, wenn der Hund den Kopf senkt und den Blick abwendet?",
-    "answers": ["Er möchte spielen.", "Er möchte sich verstecken.", "Er ist müde.", "Er beschwichtigt."],
-    "correct": [3]
+    "category": "Ausdruck Bilder",
+    "text": "Was zeigt ein Hund mit nach hinten gelegten Ohren, eingeklemmtem Schwanz und ducken?",
+    "answers": ["Aggression.", "Unsicherheit oder Angst.", "Spielverhalten.", "Dominanz."],
+    "correct": [1]
   },
   {
     "id": 47,
-    "text": "Wie kann ein Hund Stress abbauen?",
-    "answers": ["Sich schütteln.", "Angreifen.", "Davonlaufen.", "Gähnen."],
-    "correct": [0, 3]
+    "category": "Lernverhalten",
+    "text": "Was bedeutet Extinktion (Löschung) im Lernverhalten?",
+    "answers": ["Der Hund lernt besser.", "Ein Verhalten wird stärker.", "Ein Verhalten wird nicht mehr gezeigt, weil es nicht mehr verstärkt wird.", "Der Hund wird nervös."],
+    "correct": [2]
   },
   {
     "id": 48,
-    "text": "Was zeigt ein Hund mit eingeklemmter Rute und geduckter Haltung?",
-    "answers": ["Spielaufforderung.", "Angst.", "Beschwichtigung.", "Unsicherheit."],
-    "correct": [0, 2, 3]
+    "category": "Lernverhalten",
+    "text": "Was ist ein Verstärker im Training?",
+    "answers": ["Ein anderes Wort für Strafe.", "Etwas, das die Wahrscheinlichkeit eines Verhaltens erhöht (z. B. Futter, Lob).", "Ein Kommando.", "Ein Leinenruck."],
+    "correct": [1]
   },
   {
     "id": 49,
-    "text": "Wie kann ein Hund Dominanz zeigen?",
-    "answers": ["Aufrichten des Körpers.", "Fixierender Blick.", "Pfote geben.", "Knurren."],
-    "correct": [0, 1, 3]
+    "category": "Lernverhalten",
+    "text": "Was ist ein sekundärer Verstärker?",
+    "answers": ["Ein Verstärker, der durch Verknüpfung Bedeutung bekommt (z. B. Klicker, Lobwort).", "Futter.", "Spielzeug.", "Ignorieren."],
+    "correct": [0]
   },
   {
     "id": 50,
-    "text": "Was ist eine typische Deeskalationsgeste?",
-    "answers": ["Pfotenheben.", "Gähnen.", "Anspringen.", "Zähne zeigen."],
+    "category": "Erziehung",
+    "text": "Warum ist das richtige Timing so wichtig beim Training?",
+    "answers": ["Weil Hunde Timing lernen müssen.", "Damit der Hund die Belohnung mit dem gewünschten Verhalten verknüpfen kann.", "Weil es so im Gesetz steht.", "Weil es schneller geht."],
     "correct": [1]
   },
   {
     "id": 51,
-    "text": "Was bedeutet es, wenn ein Hund sich plötzlich kratzt?",
-    "answers": ["Er hat Flöhe.", "Er will Aufmerksamkeit.", "Er zeigt Übersprungverhalten.", "Er will spielen."],
-    "correct": [2]
+    "category": "Erziehung",
+    "text": "Was sollte man beim Belohnen vermeiden?",
+    "answers": ["Verspätete Belohnung.", "Unterschiedliche Belohnung.", "Belohnung mit Futter.", "Loben mit der Stimme."],
+    "correct": [0]
   },
   {
     "id": 52,
-    "text": "Wie kann ein Hund Unsicherheit zeigen?",
-    "answers": ["Schwanz einziehen.", "Blick abwenden.", "Sich klein machen.", "Zähne zeigen."],
-    "correct": [0, 1, 2]
-  },
-  {
-    "id": 53,
-    "text": "Was kann Knurren bedeuten?",
-    "answers": ["Freude.", "Müdigkeit.", "Warnung.", "Spielaufforderung."],
+    "category": "Erziehung",
+    "text": "Wie oft sollte man ein neues Verhalten üben?",
+    "answers": ["So selten wie möglich.", "Nur in der Hundeschule.", "Mehrmals täglich in kurzen, positiven Einheiten.", "Einmal pro Woche."],
     "correct": [2]
   },
   {
+    "id": 53,
+    "category": "Erziehung",
+    "text": "Was kann man tun, wenn der Hund ein Kommando ignoriert?",
+    "answers": ["Strafen.", "Wiederholen und Belohnung reduzieren.", "Ignorieren.", "Klar und deutlich wiederholen, ggf. Hilfe geben und später nochmal trainieren."],
+    "correct": [3]
+  },
+  {
     "id": 54,
-    "text": "Was deutet ein steifer Gang beim Hund an?",
-    "answers": ["Freude.", "Spiel.", "Aggression oder Unsicherheit.", "Unterwürfigkeit."],
-    "correct": [0, 2]
+    "category": "Erziehung",
+    "text": "Wie erkennt man, ob ein Hund verstanden hat, was von ihm erwartet wird?",
+    "answers": ["Wenn er das Verhalten in verschiedenen Situationen zuverlässig zeigt.", "Wenn er einmal darauf reagiert.", "Wenn er wegläuft.", "Wenn er sitzt, obwohl kein Kommando kam."],
+    "correct": [0]
   },
   {
     "id": 55,
-    "text": "Wie drückt sich Angst bei einem Hund aus?",
-    "answers": ["Mit dem Schwanz wedeln.", "Hecheln.", "Ducken.", "Rückzug."],
-    "correct": [2, 3]
+    "category": "Erziehung",
+    "text": "Was kann helfen, wenn ein Hund nicht auf ein Signal reagiert?",
+    "answers": ["Lauter werden.", "Ignorieren.", "Bestrafung.", "Körpersprache anpassen, deutliches Signal geben, ggf. zurück zum einfacheren Level."],
+    "correct": [3]
   },
   {
     "id": 56,
-    "text": "Was bedeutet es, wenn ein Hund zittert, ohne dass es kalt ist?",
-    "answers": ["Er ist müde.", "Er freut sich.", "Er hat Angst oder Stress.", "Er ist krank."],
+    "category": "Ausdruck Bilder",
+    "text": "Was zeigt ein Hund mit offenem Maul, lockerem Körper und entspanntem Gesicht?",
+    "answers": ["Stress.", "Angst.", "Entspanntes Verhalten.", "Aggression."],
     "correct": [2]
   },
   {
     "id": 57,
-    "text": "Was zeigt ein Hund durch Zähne fletschen und zurückweichen?",
-    "answers": ["Spiel.", "Angst.", "Freude.", "Verteidigung bei Unsicherheit."],
-    "correct": [1, 3]
-  },
-  {
-    "id": 58,
-    "text": "Was kann eine vorgestreckte Zunge beim Hund bedeuten?",
-    "answers": ["Beschwichtigung.", "Stress.", "Freude.", "Müdigkeit."],
-    "correct": [0, 1]
-  },
-  {
-    "id": 59,
-    "text": "Was bedeutet es, wenn ein Hund sich nach einem Konflikt schüttelt?",
-    "answers": ["Er ist nass.", "Er baut Stress ab.", "Er will Aufmerksamkeit.", "Er sucht Spiel."],
-    "correct": [0, 1]
-  },
-  {
-    "id": 60,
-    "text": "Wie zeigt ein Hund Selbstsicherheit?",
-    "answers": ["Aufrechte Körperhaltung.", "Rute hoch getragen.", "Fixierender Blick.", "Beschwichtigungsgesten."],
-    "correct": [0, 1, 2]
-  }  ,
-  {
-    "id": 61,
-    "text": "Wie reagieren Hunde auf Unsicherheit bei anderen Hunden?",
-    "answers": ["Sie beschwichtigen.", "Sie zeigen Dominanz.", "Sie greifen direkt an.", "Sie ignorieren sie."],
-    "correct": [0, 1]
-  },
-  {
-    "id": 62,
-    "text": "Welche körperlichen Reaktionen können auf Angst hindeuten?",
-    "answers": ["Bellen.", "Springen.", "Zittern.", "Fluchtverhalten."],
-    "correct": [2, 3]
-  },
-  {
-    "id": 63,
-    "text": "Was bedeutet ein eingeklemmter Schwanz beim Hund?",
-    "answers": ["Er freut sich.", "Er ist ängstlich oder unsicher.", "Er will spielen.", "Er ist aggressiv."],
+    "category": "Erziehung",
+    "text": "Was bedeutet Habituation?",
+    "answers": ["Ein Hund verlernt etwas.", "Ein Hund gewöhnt sich an Reize, die keine Bedeutung haben.", "Ein Hund bekommt neue Reize.", "Ein Hund wird konditioniert."],
     "correct": [1]
   },
   {
+    "id": 58,
+    "category": "Lernverhalten",
+    "text": "Welche Lernform liegt vor, wenn ein Hund durch Versuch und Irrtum lernt?",
+    "answers": ["Klassische Konditionierung.", "Habituation.", "Operante Konditionierung.", "Sensibilisierung."],
+    "correct": [2]
+  },
+  {
+    "id": 59,
+    "category": "Lernverhalten",
+    "text": "Was versteht man unter Reizkontrolle?",
+    "answers": ["Ein Verhalten wird nur auf ein bestimmtes Signal hin gezeigt.", "Der Hund reagiert auf alles.", "Der Hund wird überfordert.", "Das Verhalten wird gelöscht."],
+    "correct": [0]
+  },
+  {
+    "id": 60,
+    "category": "Erziehung",
+    "text": "Was ist bei der Körpersprache im Training zu beachten?",
+    "answers": ["Sie sollte klar, ruhig und konsequent sein.", "Viel Bewegung hilft.", "Körperliche Dominanz zeigen.", "Unauffällige Haltung einnehmen."],
+    "correct": [0]
+  },
+  {
+    "id": 61,
+    "category": "Erziehung",
+    "text": "Was bedeutet es, wenn ein Hund bei einem Signal zögert?",
+    "answers": [
+      "Er hat es vergessen.",
+      "Er überlegt, ob es sich lohnt.",
+      "Er kennt es nicht sicher oder ist abgelenkt.",
+      "Er rebelliert."
+    ],
+    "correct": [2]
+  },
+  {
+    "id": 62,
+    "category": "Erziehung",
+    "text": "Wie lange dauert es, bis ein Hund ein Verhalten zuverlässig zeigt?",
+    "answers": [
+      "Nach einmal Üben.",
+      "Nach einer Woche.",
+      "Es ist individuell und abhängig von Wiederholung, Belohnung und Situation.",
+      "Sofort, wenn er intelligent ist."
+    ],
+    "correct": [2]
+  },
+  {
+    "id": 63,
+    "category": "Erziehung",
+    "text": "Was ist eine Belohnung, die viele Hunde als besonders motivierend empfinden?",
+    "answers": [
+      "Leckerlis.",
+      "Schimpfen.",
+      "Anschreien.",
+      "Pfötchengeben."
+    ],
+    "correct": [0]
+  },
+  {
     "id": 64,
-    "text": "Wie zeigt ein Hund, dass er unterwürfig ist?",
-    "answers": ["Er stellt die Rute auf.", "Er zeigt die Zähne.", "Er bellt laut.", "Er legt sich auf den Rücken."],
-    "correct": [3]
+    "category": "Erziehung",
+    "text": "Warum ist es wichtig, auch kleine Fortschritte zu belohnen?",
+    "answers": [
+      "Weil der Hund sich so wichtig fühlt.",
+      "Weil so Frustration vermieden und Motivation aufgebaut wird.",
+      "Weil das Gesetz das vorschreibt.",
+      "Weil der Hund dann schneller rennt."
+    ],
+    "correct": [1]
   },
   {
     "id": 65,
-    "text": "Was zeigt ein Hund durch ständiges Wegschauen?",
-    "answers": ["Er ist dominant.", "Er beschwichtigt.", "Er ist desinteressiert.", "Er ist krank."],
+    "category": "Ausdruck Bilder",
+    "text": "Was zeigt ein Hund mit aufgestellten Ohren, angespanntem Körper und starrem Blick?",
+    "answers": [
+      "Entspannung.",
+      "Aggression oder Anspannung.",
+      "Spielaufforderung.",
+      "Freude."
+    ],
     "correct": [1]
   },
   {
     "id": 66,
-    "text": "Wie zeigt ein Hund Unsicherheit gegenüber einem Menschen?",
-    "answers": ["Er springt ihn an.", "Er bellt dauerhaft.", "Er geht in die Vorderkörpertiefstellung.", "Er zieht sich zurück oder zeigt Meideverhalten."],
-    "correct": [0, 3]
+    "category": "Erziehung",
+    "text": "Was bedeutet der Begriff ‘Reizschwelle’?",
+    "answers": [
+      "Die Menge Futter, die ein Hund braucht.",
+      "Der Punkt, ab dem ein Hund auf einen Reiz reagiert.",
+      "Der Punkt, an dem ein Hund nicht mehr hören kann.",
+      "Ein besonders angenehmer Reiz."
+    ],
+    "correct": [1]
   },
   {
     "id": 67,
-    "text": "Was sind mögliche Gründe für Meideverhalten?",
-    "answers": ["Angst.", "Negative Vorerfahrungen.", "Dominanz.", "Stress."],
-    "correct": [0, 1, 3]
+    "category": "Erziehung",
+    "text": "Was ist Flooding (Reizüberflutung)?",
+    "answers": [
+      "Eine Form der Belohnung.",
+      "Die langsame Annäherung an Reize.",
+      "Konfrontation mit einem Reiz ohne Ausweichmöglichkeit.",
+      "Eine Entspannungsmethode."
+    ],
+    "correct": [2]
   },
   {
     "id": 68,
-    "text": "Was bedeutet 'positive Verstärkung' in der Hundeerziehung?",
-    "answers": ["Dem Hund wird etwas Angenehmes gegeben.", "Der Hund wird bestraft.", "Er wird ignoriert.", "Der Hund wird ignoriert, wenn er etwas richtig macht."],
+    "category": "Erziehung",
+    "text": "Was ist bei der Erziehung besonders wichtig?",
+    "answers": [
+      "Geduld, Konsequenz und positive Verstärkung.",
+      "Lautstärke.",
+      "Strenge und harte Strafen.",
+      "Ignorieren von Fehlverhalten."
+    ],
     "correct": [0]
   },
   {
     "id": 69,
-    "text": "Was bedeutet 'negative Strafe' in der Lerntheorie?",
-    "answers": ["Dem Hund wird etwas Unangenehmes weggenommen.", "Der Hund wird geschlagen.", "Dem Hund wird etwas Angenehmes entzogen.", "Der Hund wird belohnt."],
-    "correct": [2, 3]
+    "category": "Erziehung",
+    "text": "Warum ist ein gutes Timing bei der Strafe wichtig?",
+    "answers": [
+      "Damit der Hund die Strafe mit seinem Verhalten verknüpfen kann.",
+      "Weil es lustiger ist.",
+      "Weil der Hund dann schneller bellt.",
+      "Weil sonst kein Leckerli nötig ist."
+    ],
+    "correct": [0]
   },
   {
     "id": 70,
-    "text": "Welche Aussagen treffen auf Dominanzverhalten zu?",
-    "answers": ["Es ist genetisch bedingt.", "Es hängt von der Situation ab.", "Es dient oft der Konfliktvermeidung.", "Es zeigt sich durch Aggression."],
-    "correct": [1, 2]
+    "category": "Erziehung",
+    "text": "Was kann bei falscher Strafe passieren?",
+    "answers": [
+      "Nichts.",
+      "Der Hund lernt schneller.",
+      "Fehlverknüpfungen, Angst und Vertrauensverlust.",
+      "Der Hund freut sich."
+    ],
+    "correct": [2]
   },
   {
     "id": 71,
-    "text": "Was kann Dominanzverhalten auslösen?",
-    "answers": ["Unklare Führung.", "Ressourcenverteidigung.", "Erkrankungen.", "Freude."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Muss ein Hund in NRW eine Haftpflichtversicherung haben?",
+    "answers": [
+      "Nein.",
+      "Nur wenn er gefährlich ist.",
+      "Ja, ab 20 kg oder 40 cm Schulterhöhe.",
+      "Nur wenn er draußen gehalten wird."
+    ],
+    "correct": [2]
   },
   {
     "id": 72,
-    "text": "Welche Formen des Lernens sind bei Hunden bekannt?",
-    "answers": ["Nachahmung.", "Konditionierung.", "Versuch und Irrtum.", "Vermeidung."],
-    "correct": [1, 2, 3]
+    "category": "Gesetz",
+    "text": "Muss jeder Hundehalter in NRW Sachkunde nachweisen?",
+    "answers": [
+      "Ja, generell.",
+      "Nein, nur bei gefährlichen Hunden oder großen Hunden.",
+      "Nur beim ersten Hund.",
+      "Nur bei Anmeldung beim Ordnungsamt."
+    ],
+    "correct": [1]
   },
   {
     "id": 73,
-    "text": "Was versteht man unter Habituation?",
-    "answers": ["Gewöhnung an Reize, die keine Konsequenzen haben.", "Erlernen von Kommandos.", "Sozialisation.", "Verlust von Aufmerksamkeit."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Welche Rassen gelten in NRW als gefährlich?",
+    "answers": [
+      "Golden Retriever und Mops.",
+      "Keine.",
+      "American Staffordshire Terrier, Pitbull Terrier, Staffordshire Bullterrier, Bullterrier u.a.",
+      "Alle Hunde über 50 cm Schulterhöhe."
+    ],
+    "correct": [2]
   },
   {
     "id": 74,
-    "text": "Welche Konsequenz hat Inkonsequenz in der Erziehung?",
-    "answers": ["Schnelleres Lernen.", "Unklarheit für den Hund.", "Geringerer Stress.", "Falsche Verknüpfung."],
-    "correct": [1, 3]
+    "category": "Gesetz",
+    "text": "Was ist bei der Haltung eines gefährlichen Hundes in NRW vorgeschrieben?",
+    "answers": [
+      "Nichts Besonderes.",
+      "Sachkundenachweis, Zuverlässigkeit, Versicherung, Chip, Leine & Maulkorbpflicht in Öffentlichkeit.",
+      "Nur Anmeldung.",
+      "Nur ein Maulkorb."
+    ],
+    "correct": [1]
   },
   {
     "id": 75,
-    "text": "Was ist bei der Belohnung wichtig?",
-    "answers": ["Sie erfolgt zeitnah nach dem gewünschten Verhalten.", "Sie ist immer gleich stark.", "Sie ist verzögert.", "Sie erfolgt bei jedem Verhalten."],
-    "correct": [0]
+    "category": "Ausdruck Bilder",
+    "text": "Ein Hund zeigt gefletschte Zähne, angelegte Ohren und fixiert. Was bedeutet das?",
+    "answers": [
+      "Er ist müde.",
+      "Er freut sich.",
+      "Er zeigt Drohverhalten.",
+      "Er hat Hunger."
+    ],
+    "correct": [2]
   },
   {
     "id": 76,
-    "text": "Was versteht man unter 'positiver Bestrafung'?",
-    "answers": ["Etwas Unangenehmes wird hinzugefügt.", "Etwas Angenehmes wird entzogen.", "Ignorieren des Hundes.", "Belohnung bei Fehlverhalten."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Was ist die 20/40-Regel?",
+    "answers": [
+      "Hunde dürfen nur 20 Minuten laufen.",
+      "Alle Hunde unter 20 cm sind verboten.",
+      "Regelung in NRW: Hunde ab 20 kg oder 40 cm gelten als große Hunde.",
+      "Nur Hunde zwischen 20 und 40 kg müssen gechipt werden."
+    ],
+    "correct": [2]
   },
   {
     "id": 77,
-    "text": "Was ist bei der Korrektur von Fehlverhalten zu beachten?",
-    "answers": ["Sie sollte unmittelbar erfolgen.", "Sie kann auch später erfolgen.", "Sie muss laut sein.", "Sie darf den Hund erschrecken."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Was muss ein Halter eines gefährlichen Hundes zusätzlich zur Leinenpflicht beachten?",
+    "answers": [
+      "Der Hund darf nie frei laufen.",
+      "Es gilt zusätzlich Maulkorbpflicht.",
+      "Der Hund darf nicht bellen.",
+      "Er braucht einen Waffenschein."
+    ],
+    "correct": [1]
   },
   {
     "id": 78,
-    "text": "Welche Belohnungen kann ein Hund erhalten?",
-    "answers": ["Futter.", "Bestrafung.", "Zuwendung.", "Lob."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Wann muss ein Hund gechipt werden?",
+    "answers": [
+      "Nie.",
+      "Nur wenn er teuer ist.",
+      "Ab der 12. Woche.",
+      "Bei großen oder gefährlichen Hunden nach LHundG NRW."
+    ],
+    "correct": [3]
   },
   {
     "id": 79,
-    "text": "Wie kann man erwünschtes Verhalten fördern?",
-    "answers": ["Lob.", "Belohnung.", "Ignorieren.", "Strafe bei Fehlern."],
-    "correct": [0, 1, 3]
-  },
-  {
-    "id": 80,
-    "text": "Was ist 'Shaping' in der Hundeerziehung?",
-    "answers": ["Aufbau von Verhalten durch schrittweise Verstärkung.", "Konsequentes Bestrafen.", "Ignorieren falscher Verhaltensweisen.", "Überforderung durch Trainingsdruck."],
-    "correct": [0, 1]
-  }  ,
-  {
-    "id": 81,
-    "text": "Was bedeutet es, wenn ein Hund sich auf den Rücken legt?",
-    "answers": ["Er möchte spielen.", "Er zeigt Unterwerfung.", "Er fordert Streicheleinheiten ein.", "Er will angreifen."],
-    "correct": [1, 3]
-  },
-  {
-    "id": 82,
-    "text": "Was versteht man unter dem Begriff 'sozialisierter Hund'?",
-    "answers": ["Ein Hund, der Menschen und Tiere kennt und angemessen auf sie reagiert.", "Ein Hund, der sozial lebt.", "Ein Hund, der isoliert aufwuchs.", "Ein Hund, der viele Freunde hat."],
+    "category": "Gesetz",
+    "text": "Wo darf ein gefährlicher Hund nicht mitgeführt werden?",
+    "answers": [
+      "In Schulen, Kindergärten und auf Spielplätzen.",
+      "Im Wald.",
+      "In Tierhandlungen.",
+      "Auf Straßen."
+    ],
     "correct": [0]
   },
   {
+    "id": 80,
+    "category": "Gesetz",
+    "text": "Was passiert, wenn jemand gegen das Landeshundegesetz verstößt?",
+    "answers": [
+      "Gar nichts.",
+      "Er bekommt eine Belohnung.",
+      "Es drohen Bußgelder und ggf. Einziehung des Hundes.",
+      "Der Hund wird verkauft."
+    ],
+    "correct": [2]
+  },
+  {
+    "id": 81,
+    "category": "Gesetz",
+    "text": "Was ist ein gefährlicher Hund laut LHundG NRW?",
+    "answers": [
+      "Ein Hund, der gerne spielt.",
+      "Ein Hund, der besonders groß ist.",
+      "Ein Hund, der durch Verhalten oder Rassezugehörigkeit als gefährlich gilt.",
+      "Ein Hund, der regelmäßig bellt."
+    ],
+    "correct": [2]
+  },
+  {
+    "id": 82,
+    "category": "Gesetz",
+    "text": "Was wird unter dem Begriff Zuverlässigkeit im LHundG NRW verstanden?",
+    "answers": [
+      "Guter Gehorsam.",
+      "Keine tierschutzrechtlichen oder strafrechtlichen Verstöße des Halters.",
+      "Tägliches Training mit dem Hund.",
+      "Immer Füttern zur selben Uhrzeit."
+    ],
+    "correct": [1]
+  },
+  {
     "id": 83,
-    "text": "Welche Signale können Übersprungverhalten sein?",
-    "answers": ["Kratzen.", "Schütteln.", "Gähnen.", "Knurren."],
-    "correct": [1, 3]
+    "category": "Gesetz",
+    "text": "Welche Unterlagen sind bei Haltung eines gefährlichen Hundes notwendig?",
+    "answers": [
+      "Stammbuch.",
+      "Kaufvertrag.",
+      "Sachkundenachweis, Führungszeugnis, Haftpflichtversicherung, Chip-Nachweis.",
+      "Impfpass und Spielzeug."
+    ],
+    "correct": [2]
   },
   {
     "id": 84,
-    "text": "Was versteht man unter einem gut sozialisierten Hund?",
-    "answers": ["Ein Hund, der aggressiv auf andere Hunde reagiert.", "Ein Hund, der sicher und freundlich auf andere reagiert.", "Ein Hund, der isoliert gehalten wird.", "Ein Hund, der ängstlich ist."],
-    "correct": [1, 2, 3]
+    "category": "Gesetz",
+    "text": "Wie oft muss der Sachkundenachweis wiederholt werden?",
+    "answers": [
+      "Jährlich.",
+      "Alle zwei Jahre.",
+      "Gar nicht – einmalig ausreichend.",
+      "Nur bei Wohnortwechsel."
+    ],
+    "correct": [2]
   },
   {
     "id": 85,
-    "text": "Was ist wichtig bei der Kommunikation mit einem Hund?",
-    "answers": ["Klarheit.", "Körpersprache.", "Timing.", "Häufige Wiederholungen ohne Konsequenz."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Wer darf in NRW Sachkundeprüfungen abnehmen?",
+    "answers": [
+      "Nur Tierärztinnen/Tierärzte mit behördlicher Zulassung.",
+      "Jeder Hundebesitzer.",
+      "Hundetrainer ohne Ausbildung.",
+      "Polizisten."
+    ],
+    "correct": [0]
   },
   {
     "id": 86,
-    "text": "Welche Trainingsmethode ist besonders tiergerecht?",
-    "answers": ["Positive Verstärkung.", "Negative Bestrafung.", "Physische Züchtigung.", "Leinenruck."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was passiert mit einem Hund, der auffällig geworden ist?",
+    "answers": [
+      "Er bekommt eine Medaille.",
+      "Er darf überall frei laufen.",
+      "Er wird überprüft und kann als gefährlich eingestuft werden.",
+      "Nichts – das ist normal."
+    ],
+    "correct": [2]
   },
   {
     "id": 87,
-    "text": "Was bedeutet Körpersprache beim Hund?",
-    "answers": ["Kommunikation über Haltung, Bewegung und Ausdruck.", "Worte und Geräusche.", "Körpersignale anderer Tiere übernehmen.", "Lautes Bellen."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Was ist bei der Haltung eines großen Hundes zu beachten (20/40-Hund)?",
+    "answers": [
+      "Sachkunde, Anmeldung, Haftpflicht, Chip.",
+      "Nur Leinenpflicht.",
+      "Nichts – nur große Hunde dürfen ohne Auflagen gehalten werden.",
+      "Sie brauchen keinen Auslauf."
+    ],
+    "correct": [0]
   },
   {
     "id": 88,
-    "text": "Welche Anzeichen deuten auf Stress hin?",
-    "answers": ["Hecheln.", "Zittern.", "Meideverhalten.", "Bellen."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was bedeutet Leinenpflicht?",
+    "answers": [
+      "Der Hund darf nicht bellen.",
+      "Der Hund darf nur auf dem Sofa liegen.",
+      "Der Hund muss an der Leine geführt werden.",
+      "Der Hund darf nur mit Maulkorb raus."
+    ],
+    "correct": [2]
   },
   {
     "id": 89,
-    "text": "Wie reagiert ein Hund auf Unsicherheit?",
-    "answers": ["Aggression.", "Meideverhalten.", "Bellen.", "Verstummen."],
-    "correct": [1, 2]
+    "category": "Gesetz",
+    "text": "Wann darf ein großer Hund in NRW ohne Leine laufen?",
+    "answers": [
+      "In bestimmten Freilaufflächen oder mit Befreiung.",
+      "Nie.",
+      "Nur im Wald.",
+      "Wenn er geimpft ist."
+    ],
+    "correct": [0]
   },
   {
     "id": 90,
-    "text": "Welche Reaktionen können durch Stress entstehen?",
-    "answers": ["Erhöhte Reizbarkeit.", "Flucht.", "Übersprungverhalten.", "Totstellen."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Was ist beim Transport eines Hundes im Auto zu beachten?",
+    "answers": [
+      "Er muss frei im Auto sitzen.",
+      "Er darf nicht mitfahren.",
+      "Er muss gesichert sein (z. B. Gurt, Box, Trenngitter).",
+      "Er braucht ein eigenes Fenster."
+    ],
+    "correct": [2]
   },
   {
     "id": 91,
-    "text": "Wie zeigt ein Hund Überforderung?",
-    "answers": ["Zittern.", "Meideverhalten.", "Schwanzwedeln.", "Fixierender Blick."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was passiert, wenn ein Hund Menschen oder Tiere beißt?",
+    "answers": [
+      "Er bekommt ein Leckerli.",
+      "Es erfolgt eine Anzeige und ggf. Einstufung als gefährlich.",
+      "Es gibt keine Folgen.",
+      "Der Besitzer wird belohnt."
+    ],
+    "correct": [1]
   },
   {
     "id": 92,
-    "text": "Wie zeigt ein Hund Spielverhalten?",
-    "answers": ["Kopf senken.", "Vorderkörpertiefstellung.", "Zähne zeigen.", "Ohren anlegen."],
-    "correct": [1, 2]
+    "category": "Gesetz",
+    "text": "Welche Pflicht hat man beim Umzug mit einem großen oder gefährlichen Hund?",
+    "answers": [
+      "Anmeldung bei der neuen Gemeinde.",
+      "Keine.",
+      "Nur Hund anmelden beim Tierarzt.",
+      "Neuer Hundesachkundenachweis."
+    ],
+    "correct": [0]
   },
   {
     "id": 93,
-    "text": "Welche Körpersignale zeigen Unsicherheit?",
-    "answers": ["Blickkontakt.", "Pfotenheben.", "Kratzen.", "Eingeklemmter Schwanz."],
-    "correct": [1, 2, 3]
+    "category": "Gesetz",
+    "text": "Was bedeutet Anleinpflicht im öffentlichen Raum?",
+    "answers": [
+      "Hund darf nur im Haus laufen.",
+      "Hund muss an kurzer Leine geführt werden.",
+      "Hund darf nicht bellen.",
+      "Hund darf auf den Spielplatz."
+    ],
+    "correct": [1]
   },
   {
     "id": 94,
-    "text": "Wie zeigt sich Frustration beim Hund?",
-    "answers": ["Winseln.", "Bellen.", "Zähne zeigen.", "Abwenden."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was muss auf Anfrage der Ordnungsbehörde vorgelegt werden?",
+    "answers": [
+      "Spielzeug.",
+      "Hundebett.",
+      "Nachweise zu Versicherung, Chip, Anmeldung, Sachkunde.",
+      "Adresse des Züchters."
+    ],
+    "correct": [2]
   },
   {
     "id": 95,
-    "text": "Wie zeigt sich Aggression beim Hund?",
-    "answers": ["Fixierender Blick.", "Knurren.", "Rückzug.", "Anstarren."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Welche Folgen kann die Haltung eines Hundes ohne Sachkundenachweis haben?",
+    "answers": [
+      "Keine.",
+      "Verwarnung und Hinweis.",
+      "Bußgelder und ggf. Hundeverbot.",
+      "Belohnung bei gutem Verhalten."
+    ],
+    "correct": [2]
   },
   {
     "id": 96,
-    "text": "Was bedeutet eine steil getragene Rute?",
-    "answers": ["Freude.", "Aufregung.", "Stress.", "Dominanz."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was gilt als öffentliches Interesse an der Hundehaltung?",
+    "answers": [
+      "Dass alle Menschen Hunde haben.",
+      "Hundehaltung als Hobby.",
+      "Schutz vor Gefahren durch Hunde.",
+      "Werbung für Hundezubehör."
+    ],
+    "correct": [2]
   },
   {
     "id": 97,
-    "text": "Was zeigt ein Hund mit zurückgelegten Ohren?",
-    "answers": ["Freude.", "Unsicherheit.", "Beschwichtigung.", "Achtung."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Wie lange ist die Anzeige zur Hundehaltung bei der Gemeinde aufzubewahren?",
+    "answers": [
+      "Gar nicht.",
+      "Nur beim ersten Hund.",
+      "Solange der Hund lebt.",
+      "Bis zum nächsten Tierarztbesuch."
+    ],
+    "correct": [2]
   },
   {
     "id": 98,
-    "text": "Was bedeutet ständiges Bellen?",
-    "answers": ["Freude.", "Stress.", "Langeweile.", "Revierverhalten."],
+    "category": "Gesetz",
+    "text": "Welche Haltungsbedingungen können zu Problemen führen?",
+    "answers": [
+      "Ausreichend Bewegung und Ruhe.",
+      "Isolation, Unterforderung, fehlende Sozialkontakte.",
+      "Freilauf im Garten.",
+      "Zweimal tägliches Füttern."
+    ],
     "correct": [1]
   },
   {
     "id": 99,
-    "text": "Was bedeutet ein schiefer Kopf beim Hund?",
-    "answers": ["Neugier.", "Gehörprobleme.", "Orientierung.", "Beschwichtigung."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was ist beim Halten mehrerer Hunde zu beachten?",
+    "answers": [
+      "Nichts Besonderes.",
+      "Nur der größte zählt.",
+      "Jeder Hund muss gemeldet und abgesichert sein.",
+      "Es gilt nur ein Sachkundenachweis."
+    ],
+    "correct": [2]
   },
   {
     "id": 100,
-    "text": "Wie zeigt ein Hund Konzentration?",
-    "answers": ["Fixierender Blick.", "Vorderkörpertiefstellung.", "Pfotenheben.", "Anspannung des Körpers."],
-    "correct": [1, 2]
-  }  ,
+    "category": "Gesetz",
+    "text": "Wann ist die Haltung eines Hundes nicht erlaubt?",
+    "answers": [
+      "Wenn man in einer Wohnung lebt.",
+      "Wenn die Haltung tierschutzwidrig oder gefährlich ist.",
+      "Wenn der Hund laut ist.",
+      "Wenn kein Spielzeug vorhanden ist."
+    ],
+    "correct": [1]
+  },
   {
     "id": 101,
-    "text": "Was bedeutet es, wenn ein Hund sich klein macht und kauert?",
-    "answers": ["Freude.", "Spielaufforderung.", "Unterwürfigkeit.", "Angst."],
-    "correct": [2, 3]
+    "category": "Gesetz",
+    "text": "Welche Aufgaben hat das Veterinäramt im Zusammenhang mit der Hundehaltung?",
+    "answers": [
+      "Futterverkauf.",
+      "Überprüfung der Haltung, Einschätzung von Gefährlichkeit, Beratung.",
+      "Hundetraining anbieten.",
+      "Haustiervermittlung."
+    ],
+    "correct": [1]
   },
   {
     "id": 102,
-    "text": "Wie zeigt ein Hund, dass er sich einer Person unterordnet?",
-    "answers": ["Er wedelt mit der Rute.", "Er bellt sie an.", "Er legt sich hin und zeigt den Bauch.", "Er greift sie an."],
-    "correct": [2]
+    "category": "Gesetz",
+    "text": "Was bedeutet das Prinzip der Verhältnismäßigkeit bei Maßnahmen gegen Hundehalter?",
+    "answers": [
+      "Strafen müssen möglichst hoch sein.",
+      "Jede Maßnahme muss angemessen und erforderlich sein.",
+      "Der Hund muss immer abgegeben werden.",
+      "Maßnahmen dürfen nur von der Polizei ergriffen werden."
+    ],
+    "correct": [1]
   },
   {
     "id": 103,
-    "text": "Wie können Hunde Konflikte vermeiden?",
-    "answers": ["Beschwichtigungssignale senden.", "Direkt angreifen.", "Ignorieren.", "Flucht."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Darf ein gefährlicher Hund in NRW vererbt oder weitergegeben werden?",
+    "answers": [
+      "Nein, niemals.",
+      "Ja, aber nur mit Genehmigung der zuständigen Behörde.",
+      "Nur im Ausland.",
+      "Nur an Freunde und Familie."
+    ],
+    "correct": [1]
   },
   {
     "id": 104,
-    "text": "Welche Bedeutung kann Bellen beim Hund haben?",
-    "answers": ["Warnung.", "Freude.", "Angst.", "Aggression."],
-    "correct": [0, 1, 2, 3]
-  },
-  {
-    "id": 105,
-    "text": "Welche Bedeutung hat Knurren im sozialen Kontext?",
-    "answers": ["Spiel.", "Beschwichtigung.", "Warnung.", "Stress."],
+    "category": "Gesetz",
+    "text": "Was ist eine tierschutzwidrige Haltung?",
+    "answers": [
+      "Wenn der Hund viel spielt.",
+      "Wenn der Hund draußen leben darf.",
+      "Wenn der Hund nicht artgerecht gehalten wird (z. B. Isolation, Misshandlung).",
+      "Wenn er keinen Napf hat."
+    ],
     "correct": [2]
   },
   {
+    "id": 105,
+    "category": "Gesetz",
+    "text": "Was ist bei der Sozialverträglichkeit eines Hundes gemeint?",
+    "answers": [
+      "Ob er Kinder mag.",
+      "Wie er sich mit Menschen und Tieren verhält.",
+      "Wie oft er schläft.",
+      "Wie groß er ist."
+    ],
+    "correct": [1]
+  },
+  {
     "id": 106,
-    "text": "Was bedeutet eine aufgerichtete Körperhaltung beim Hund?",
-    "answers": ["Unsicherheit.", "Selbstsicherheit.", "Spiel.", "Unterwürfigkeit."],
+    "category": "Gesetz",
+    "text": "Welche Bedeutung hat die Chipnummer?",
+    "answers": [
+      "Sie zeigt das Alter des Hundes.",
+      "Sie dient der eindeutigen Identifikation und Registrierung.",
+      "Sie ist nur für Züchter wichtig.",
+      "Sie ersetzt die Steuermarke."
+    ],
     "correct": [1]
   },
   {
     "id": 107,
-    "text": "Wie zeigt ein Hund Aufregung?",
-    "answers": ["Hecheln.", "Zittern.", "Winseln.", "Stillstehen."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Dürfen große oder gefährliche Hunde in NRW ohne Leine in einem eingezäunten Garten laufen?",
+    "answers": [
+      "Nein, nie.",
+      "Ja, wenn der Garten ausreichend gesichert ist.",
+      "Nur mit Maulkorb.",
+      "Nur mit Erlaubnis des Nachbarn."
+    ],
+    "correct": [1]
   },
   {
     "id": 108,
-    "text": "Welche Signale zeigen Wohlbefinden beim Hund?",
-    "answers": ["Weiches Körperbild.", "Lässige Haltung.", "Entspannter Blick.", "Fixieren."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist bei der Anmeldung eines Hundes bei der Gemeinde anzugeben?",
+    "answers": [
+      "Name, Chipnummer, Rasse, Größe, ggf. Gefährlichkeit.",
+      "Fellfarbe und Lieblingsspielzeug.",
+      "Tierarztadresse.",
+      "Zahl der Spaziergänge."
+    ],
+    "correct": [0]
   },
   {
     "id": 109,
-    "text": "Was bedeutet es, wenn ein Hund schnüffelt, obwohl keine Gerüche da sind?",
-    "answers": ["Langeweile.", "Ablenkung.", "Beschwichtigungssignal.", "Überforderung."],
+    "category": "Gesetz",
+    "text": "Welche Maßnahmen kann die Gemeinde bei Problemen mit einem Hund ergreifen?",
+    "answers": [
+      "Empfehlungen geben.",
+      "Impfungen anbieten.",
+      "Maßnahmen wie Maulkorb-, Leinenpflicht, Halteverbot.",
+      "Hundespielzeug zur Verfügung stellen."
+    ],
     "correct": [2]
   },
   {
     "id": 110,
-    "text": "Was kann plötzliche Bewegungshemmung beim Hund anzeigen?",
-    "answers": ["Er hat Angst.", "Er will spielen.", "Er zeigt Jagdverhalten.", "Er hat Schmerzen."],
-    "correct": [0, 3]
+    "category": "Gesetz",
+    "text": "Was ist das Ziel des Landeshundegesetzes NRW?",
+    "answers": [
+      "Mehr Hundeschulen eröffnen.",
+      "Den Schutz der öffentlichen Sicherheit und Ordnung vor Gefahren durch Hunde.",
+      "Den Verkauf von Hunden fördern.",
+      "Die Haltung verbieten."
+    ],
+    "correct": [1]
   },
   {
     "id": 111,
-    "text": "Was bedeutet das Hochheben einer Vorderpfote bei Anspannung?",
-    "answers": ["Jagdverhalten.", "Stress.", "Unwohlsein.", "Spiel."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was bedeutet der Begriff „Listenhund“?",
+    "answers": [
+      "Ein Hund mit Stammbaum.",
+      "Ein Hund auf einer Rasseliste für gefährliche Hunde.",
+      "Ein Hund, der auf einer Warteliste steht.",
+      "Ein registrierter Hund."
+    ],
+    "correct": [1]
   },
   {
     "id": 112,
-    "text": "Wie zeigt sich Überforderung im Training?",
-    "answers": ["Zappeln.", "Gähnen.", "Abwenden.", "Angreifen."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Wer entscheidet über die Einstufung eines Hundes als gefährlich?",
+    "answers": [
+      "Der Halter.",
+      "Der Tierarzt.",
+      "Die zuständige Ordnungsbehörde nach Begutachtung.",
+      "Die Hundeschule."
+    ],
+    "correct": [2]
   },
   {
     "id": 113,
-    "text": "Welche Wirkung kann ständiger Druck auf einen Hund haben?",
-    "answers": ["Fördert Lernverhalten.", "Führt zu Stress.", "Fördert Vertrauen.", "Verhindert Bindung."],
-    "correct": [1, 3]
+    "category": "Gesetz",
+    "text": "Wie wird ein Hund als gefährlich eingestuft?",
+    "answers": [
+      "Wenn er laut bellt.",
+      "Nach Vorfällen wie Bissverletzungen, Aggressionsverhalten oder auf Grundlage der Rasse.",
+      "Wenn er schwarz ist.",
+      "Wenn er nicht geimpft ist."
+    ],
+    "correct": [1]
   },
   {
     "id": 114,
-    "text": "Was versteht man unter der sensiblen Phase?",
-    "answers": ["Lernzeit für Umwelterfahrungen.", "Wachstumsphase.", "Zeit nach dem Zahnwechsel.", "Ruhephase."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Was bedeutet Halteverbot?",
+    "answers": [
+      "Hund darf nicht ins Haus.",
+      "Verbot, einen bestimmten Hund zu halten.",
+      "Hund darf nicht bellen.",
+      "Nur Tierärzte dürfen Hunde halten."
+    ],
+    "correct": [1]
   },
   {
     "id": 115,
-    "text": "Welche Bedeutung hat Sozialisation für Hunde?",
-    "answers": ["Erlernen von Verhaltensweisen im Sozialkontakt.", "Training von Grundkommandos.", "Bindung zu Menschen stärken.", "Pflegeverhalten entwickeln."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Welche Funktion hat das zentrale Hunderegister?",
+    "answers": [
+      "Für Werbung.",
+      "Zur Steuererhebung.",
+      "Zur Erfassung von Haltung, Größe, Rasse, Chipnummer – auch für Kontrolle und Sicherheit.",
+      "Für Tierarztbesuche."
+    ],
+    "correct": [2]
   },
   {
     "id": 116,
-    "text": "Was ist ein angstauslösender Reiz?",
-    "answers": ["Etwas Neues.", "Ein lautes Geräusch.", "Ein vertrauter Mensch.", "Ein fremder Hund."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Wann wird ein Wesenstest angeordnet?",
+    "answers": [
+      "Bei jedem Hund.",
+      "Bei auffälligem Verhalten oder bestimmten Rassen.",
+      "Wenn der Hund klein ist.",
+      "Wenn der Hund Futter verweigert."
+    ],
+    "correct": [1]
   },
   {
     "id": 117,
-    "text": "Wie äußert sich Verlassensangst bei Hunden?",
-    "answers": ["Jaulen beim Alleinsein.", "Zerstören von Gegenständen.", "Koten im Haus.", "Hecheln beim Spielen."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was prüft ein Wesenstest?",
+    "answers": [
+      "Nur die Größe.",
+      "Reaktion auf verschiedene Reize, Umweltverhalten, Sozialverhalten, Aggression.",
+      "Fähigkeit zum Bellen.",
+      "Spielverhalten mit dem Halter."
+    ],
+    "correct": [1]
   },
   {
     "id": 118,
-    "text": "Wie kann man einen Hund an Umweltreize gewöhnen?",
-    "answers": ["Langsame Annäherung.", "Zwangskonfrontation.", "Positive Verknüpfung.", "Ignorieren der Reaktion."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Wer darf einen Wesenstest durchführen?",
+    "answers": [
+      "Nur die Polizei.",
+      "Nur Halter selbst.",
+      "Tierärzte oder Sachverständige mit behördlicher Zulassung.",
+      "Hundeschulen ohne Qualifikation."
+    ],
+    "correct": [2]
   },
   {
     "id": 119,
-    "text": "Wie sollte ein Welpe sozialisiert werden?",
-    "answers": ["Kontakt zu Menschen und Hunden.", "Training unter Stress.", "Vermeidung von Reizen.", "Spielerisches Erkunden."],
-    "correct": [0, 3]
+    "category": "Gesetz",
+    "text": "Was bedeutet das Ergebnis 'nicht gefährlich' im Wesenstest?",
+    "answers": [
+      "Der Hund darf ohne Auflagen gehalten werden (wenn keine anderen Gründe dagegen sprechen).",
+      "Der Hund ist immer gefährlich.",
+      "Es ändert sich nichts.",
+      "Der Hund muss eingeschläfert werden."
+    ],
+    "correct": [0]
   },
   {
     "id": 120,
-    "text": "Was kann zur Vermeidung von Angst beitragen?",
-    "answers": ["Positive Erfahrungen.", "Zwangsmaßnahmen.", "Verlässliche Bezugsperson.", "Frühe Gewöhnung."],
-    "correct": [0, 2, 3]
-  }  ,
+    "category": "Gesetz",
+    "text": "Welche Behörde ist bei Verstößen gegen das LHundG zuständig?",
+    "answers": [
+      "Der Tierschutzverein.",
+      "Die örtliche Ordnungsbehörde (z. B. Ordnungsamt).",
+      "Das Finanzamt.",
+      "Die Feuerwehr."
+    ],
+    "correct": [1]
+  },
   {
     "id": 121,
-    "text": "Was hilft Hunden, mit neuen Situationen besser umzugehen?",
-    "answers": ["Ruhiger, sicherer Umgang durch Bezugsperson.", "Zwangskonfrontation.", "Bekannte Routinen.", "Bestrafung bei Unsicherheit."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Was ist beim Gassi gehen mit einem großen Hund in NRW zu beachten?",
+    "answers": [
+      "Nichts.",
+      "Leinenpflicht gilt im öffentlichen Raum, ggf. auch Maulkorbpflicht je nach Einstufung.",
+      "Hund muss laut bellen können.",
+      "Er darf keine anderen Hunde sehen."
+    ],
+    "correct": [1]
   },
   {
     "id": 122,
-    "text": "Wie kann man das Vertrauen eines Hundes fördern?",
-    "answers": ["Konsistenz und Geduld.", "Körperliche Strafen.", "Positive Verstärkung.", "Verlässliche Beziehung."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Was ist eine Halteerlaubnis für gefährliche Hunde?",
+    "answers": [
+      "Ein Führerschein.",
+      "Ein Nachweis der Steuer.",
+      "Eine behördliche Genehmigung zur Haltung unter bestimmten Voraussetzungen.",
+      "Ein Spielschein für Hundeparks."
+    ],
+    "correct": [2]
   },
   {
     "id": 123,
-    "text": "Was ist bei einem Hund mit traumatischen Erfahrungen wichtig?",
-    "answers": ["Zeit und Geduld.", "Zwang.", "Klares Training.", "Vermeidung erneuter negativer Erfahrungen."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Was muss beim Halten eines gefährlichen Hundes ständig mitgeführt werden?",
+    "answers": [
+      "Leine und Spielzeug.",
+      "Erlaubnisurkunde und Nachweise über Sachkunde und Versicherung.",
+      "Futterration.",
+      "Hundemarke."
+    ],
+    "correct": [1]
   },
   {
     "id": 124,
-    "text": "Wie zeigt ein Hund Frust?",
-    "answers": ["Bellen.", "Kratzen.", "Unruhe.", "Knurren."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Was passiert bei einem Verstoß gegen Auflagen der Halteerlaubnis?",
+    "answers": [
+      "Nichts.",
+      "Belohnung.",
+      "Bußgeld, ggf. Entzug der Erlaubnis.",
+      "Verwarnung durch Nachbarn."
+    ],
+    "correct": [2]
   },
   {
     "id": 125,
-    "text": "Was sind häufige Ursachen für Angstverhalten?",
-    "answers": ["Negative Erfahrungen.", "Unsozialisierung.", "Genetik.", "Starke Umweltreize."],
-    "correct": [0, 1, 2, 3]
+    "category": "Gesetz",
+    "text": "Wann darf ein gefährlicher Hund ohne Maulkorb laufen?",
+    "answers": [
+      "Nie.",
+      "Nach positivem Wesenstest und behördlicher Befreiung.",
+      "Nur im Wald.",
+      "Wenn er klein ist."
+    ],
+    "correct": [1]
   },
   {
     "id": 126,
-    "text": "Welche Verhaltensweisen zeigt ein Hund, der Angst hat und sich bedroht fühlt?",
-    "answers": ["Er versucht zu fliehen.", "Er versucht anzugreifen.", "Er wedelt und bettelt nach Futter.", "Er pinkelt unter sich."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was ist bei Auslandsreisen mit einem gefährlichen Hund zu beachten?",
+    "answers": [
+      "Es gelten die Vorschriften des Ziellandes, ggf. Einfuhrverbot.",
+      "Es ist wie Urlaub für den Hund.",
+      "Maulkorbpflicht entfällt im Ausland.",
+      "Reisen sind nicht erlaubt."
+    ],
+    "correct": [0]
   },
   {
     "id": 127,
-    "text": "Was bedeutet Beschwichtigung beim Hund?",
-    "answers": ["Er beschwichtigt sich selbst.", "Er zeigt deeskalierendes Verhalten.", "Er beruhigt sich selbst.", "Er nimmt Kontakt zu Artgenossen auf."],
-    "correct": [1, 2]
+    "category": "Gesetz",
+    "text": "Welche Rolle spielt die Größe des Hundes beim LHundG NRW?",
+    "answers": [
+      "Keine.",
+      "Nur kleine Hunde werden erfasst.",
+      "Ab 20 kg oder 40 cm gelten Hunde als groß und unterliegen Meldepflicht.",
+      "Größe bestimmt die Futtermenge."
+    ],
+    "correct": [2]
   },
   {
     "id": 128,
-    "text": "Wie wirkt sich Strafe auf einen ängstlichen Hund aus?",
-    "answers": ["Kann Angst verstärken.", "Vertrauen wird beschädigt.", "Er lernt schneller.", "Er wird ruhiger."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was bedeutet 'Ordnungsverfügung' im Zusammenhang mit der Hundehaltung?",
+    "answers": [
+      "Eine Einladung.",
+      "Ein Spielzeugverbot.",
+      "Ein behördlich angeordnetes Gebot oder Verbot mit Rechtswirkung.",
+      "Ein Hundemagazin."
+    ],
+    "correct": [2]
   },
   {
     "id": 129,
-    "text": "Was hilft beim Umgang mit Angstverhalten?",
-    "answers": ["Ruhige Umgebung.", "Geduld.", "Positive Bestärkung.", "Strenge Disziplin."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Welche Angaben sind für die Erfassung im Hunderegister notwendig?",
+    "answers": [
+      "Lieblingsfarbe.",
+      "Rasse, Größe, Gewicht, Chipnummer, Halterdaten.",
+      "Futtermarke.",
+      "Spaziergehzeiten."
+    ],
+    "correct": [1]
   },
   {
     "id": 130,
-    "text": "Wie reagiert ein unsicherer Hund auf Druck?",
-    "answers": ["Mit Angstreaktionen.", "Mit Aggression.", "Mit Rückzug.", "Mit Freude."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was prüft die Behörde bei der Erteilung einer Halteerlaubnis für gefährliche Hunde?",
+    "answers": [
+      "Ob der Hund teuer war.",
+      "Sachkunde, Zuverlässigkeit, Bedarf, Haltungsmöglichkeiten.",
+      "Ob der Hund gut riecht.",
+      "Ob der Hund geimpft ist."
+    ],
+    "correct": [1]
   },
   {
     "id": 131,
-    "text": "Was bedeutet Individualdistanz?",
-    "answers": ["Der Abstand, den ein Hund zu anderen braucht, um sich wohlzufühlen.", "Die Nähe zum Futter.", "Der Abstand zum Schlafplatz.", "Die Grenze eines Reviers."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Welche Versicherung ist für große oder gefährliche Hunde vorgeschrieben?",
+    "answers": [
+      "Lebensversicherung.",
+      "Unfallversicherung.",
+      "Haftpflichtversicherung.",
+      "Autoversicherung."
+    ],
+    "correct": [2]
   },
   {
     "id": 132,
-    "text": "Welche Rolle spielt der Mensch bei der Angstbewältigung des Hundes?",
-    "answers": ["Er kann Sicherheit geben.", "Er kann durch Verhalten Angst verstärken.", "Er kann eine sichere Bindung aufbauen.", "Er spielt keine Rolle."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist bei der Abgabe eines Hundes an eine andere Person zu beachten?",
+    "answers": [
+      "Einfach weitergeben.",
+      "Nur mit vorheriger Genehmigung bei gefährlichen Hunden.",
+      "Hund vorher streicheln.",
+      "Nichts Besonderes."
+    ],
+    "correct": [1]
   },
   {
     "id": 133,
-    "text": "Wie kann man Vertrauen aufbauen?",
-    "answers": ["Mit Konsequenz.", "Mit Strafe.", "Mit positiver Bestärkung.", "Mit Beziehungspflege."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Was ist ein Hundeführerschein im weiteren Sinne?",
+    "answers": [
+      "Ein Tierausweis.",
+      "Ein Sachkundenachweis über theoretische und praktische Kenntnisse im Umgang mit Hunden.",
+      "Ein Fahrzeugschein.",
+      "Ein internationaler Heimtierausweis."
+    ],
+    "correct": [1]
   },
   {
     "id": 134,
-    "text": "Welche Maßnahmen helfen einem unsicheren Hund?",
-    "answers": ["Vermeidung von Überforderung.", "Klares Verhalten des Halters.", "Abwarten.", "Abschreckung."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist Ziel der Sachkundeprüfung nach LHundG NRW?",
+    "answers": [
+      "Erlaubnis zum Hundekauf.",
+      "Nachweis, dass ein Halter die nötigen Kenntnisse über Hundehaltung und -verhalten hat.",
+      "Erlaubnis zum Gassigehen.",
+      "Zertifikat für Hundeschönheitspflege."
+    ],
+    "correct": [1]
   },
   {
     "id": 135,
-    "text": "Wie erkennt man Angstsymptome beim Hund?",
-    "answers": ["Hecheln.", "Zittern.", "Verstecken.", "Fröhliches Schwanzwedeln."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Wie kann ein Hundehalter sich auf die Sachkundeprüfung vorbereiten?",
+    "answers": [
+      "Keine Vorbereitung nötig.",
+      "Durch Lesen, Kurse, Apps und Gespräche mit Fachleuten.",
+      "Nur mit dem Hund reden.",
+      "Gar nicht – es ist Glückssache."
+    ],
+    "correct": [1]
   },
   {
     "id": 136,
-    "text": "Was kann zu Unsicherheit führen?",
-    "answers": ["Unklare Kommunikation.", "Unsozialisierung.", "Konsequenz.", "Überforderung."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was bedeutet 'öffentliches Interesse' bei der Genehmigung zur Hundehaltung?",
+    "answers": [
+      "Ob der Hund freundlich ist.",
+      "Ob durch die Haltung Gefahren für die Allgemeinheit bestehen.",
+      "Ob die Nachbarn zustimmen.",
+      "Ob der Hund laut bellt."
+    ],
+    "correct": [1]
   },
   {
     "id": 137,
-    "text": "Wie zeigt ein Hund Vertrauensverlust?",
-    "answers": ["Rückzug.", "Aggression.", "Ignorieren von Signalen.", "Freudiges Bellen."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was passiert, wenn ein gefährlicher Hund ohne Erlaubnis gehalten wird?",
+    "answers": [
+      "Nichts.",
+      "Bußgelder und ggf. Entzug des Hundes.",
+      "Der Halter bekommt eine Mahnung.",
+      "Der Hund darf frei laufen."
+    ],
+    "correct": [1]
   },
   {
     "id": 138,
-    "text": "Was bedeutet soziale Unterstützung beim Hund?",
-    "answers": ["Anwesenheit einer vertrauten Person senkt Stress.", "Leckerlis.", "Körperliche Fixierung.", "Erzwungene Nähe."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Welche Maßnahmen kann die Behörde bei gefährlichen Hunden ergreifen?",
+    "answers": [
+      "Beobachten.",
+      "Training vorschreiben.",
+      "Maulkorb, Leinenpflicht, Halteverbot, Einziehung.",
+      "Gassigehzeiten verlängern."
+    ],
+    "correct": [2]
   },
   {
     "id": 139,
-    "text": "Was ist wichtig bei der Angstreduktion?",
-    "answers": ["Geduld.", "Zwang.", "Sichere Umgebung.", "Positive Erfahrungen."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Welche Rolle spielt der Halter bei der Gefährlichkeit eines Hundes?",
+    "answers": [
+      "Keine – nur der Hund zählt.",
+      "Er beeinflusst Verhalten durch Haltung, Erziehung und Umgang wesentlich.",
+      "Nur das Geschlecht zählt.",
+      "Nur das Futter zählt."
+    ],
+    "correct": [1]
   },
   {
     "id": 140,
-    "text": "Wie kann man Stress bei einem Hund erkennen?",
-    "answers": ["Hecheln.", "Kratzen.", "Gähnen.", "Anspannung."],
-    "correct": [0, 1, 2, 3]
-  }  ,
+    "category": "Gesetz",
+    "text": "Was muss bei einer Leinenbefreiung für große Hunde beachtet werden?",
+    "answers": [
+      "Sie muss schriftlich beantragt und genehmigt werden.",
+      "Man darf sie mündlich fordern.",
+      "Sie gilt automatisch.",
+      "Sie gilt nur an Sonntagen."
+    ],
+    "correct": [0]
+  },
   {
     "id": 141,
-    "text": "Was bedeutet 'Beschwichtigungsgeste'?",
-    "answers": ["Ein Ausdruck von Aggression.", "Ein Verhalten, das Stress abbauen oder Konflikte vermeiden soll.", "Ein Spielsignal.", "Ein Zeichen von Dominanz."],
-    "correct": [1]
+    "category": "Gesetz",
+    "text": "Was ist bei der Maulkorbpflicht zu beachten?",
+    "answers": [
+      "Der Maulkorb muss gut passen und darf die Atmung nicht behindern.",
+      "Er darf ruhig eng sitzen.",
+      "Er muss bunt sein.",
+      "Er muss aus Leder sein."
+    ],
+    "correct": [0]
   },
   {
     "id": 142,
-    "text": "Was kann ein Hund mit sich über die Lefzen lecken ausdrücken?",
-    "answers": ["Genuss.", "Stress.", "Beschwichtigung.", "Spieltrieb."],
-    "correct": [1, 2]
-  },
-  {
-    "id": 143,
-    "text": "Wie zeigen Hunde Deeskalation?",
-    "answers": ["Gähnen.", "Abwenden des Blicks.", "Anspannen.", "Körperkontakt."],
-    "correct": [0, 1]
-  },
-  {
-    "id": 144,
-    "text": "Wie wirkt sich Leinenaggression aus?",
-    "answers": ["Der Hund zieht zur Kontaktaufnahme.", "Der Hund bellt und zeigt aggressives Verhalten an der Leine.", "Er ist entspannter als ohne Leine.", "Er zeigt Unterwürfigkeit."],
+    "category": "Gesetz",
+    "text": "Was ist bei Veranstaltungen mit vielen Menschen und Hunden zu beachten?",
+    "answers": [
+      "Der Hund darf frei laufen.",
+      "Gefährliche oder große Hunde sind ggf. an der Leine und mit Maulkorb zu führen.",
+      "Der Hund braucht keine Leine.",
+      "Hunde dürfen sich streiten."
+    ],
     "correct": [1]
   },
   {
+    "id": 143,
+    "category": "Gesetz",
+    "text": "Welche Nachweise müssen gefährliche Hundehalter mitführen?",
+    "answers": [
+      "Spaziergangsliste.",
+      "Nachweise zu Sachkunde, Versicherung, Erlaubnis.",
+      "Nur Futterbeutel.",
+      "Impfausweis."
+    ],
+    "correct": [1]
+  },
+  {
+    "id": 144,
+    "category": "Gesetz",
+    "text": "Wer prüft die Unterlagen zur Hundehaltung?",
+    "answers": [
+      "Nachbarn.",
+      "Tierbedarfshändler.",
+      "Ordnungsbehörde oder Veterinäramt.",
+      "Hundeschulen."
+    ],
+    "correct": [2]
+  },
+  {
     "id": 145,
-    "text": "Was kann Leinenaggression verursachen?",
-    "answers": ["Frust.", "Angst.", "Unklare Führung.", "Guter Sozialkontakt."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist das Ziel einer Sachkundeprüfung?",
+    "answers": [
+      "Spaß für den Hund.",
+      "Nachweis der Kenntnisse im Umgang mit Hunden zur Gefahrenabwehr.",
+      "Zuchtzulassung.",
+      "Hundesport."
+    ],
+    "correct": [1]
   },
   {
     "id": 146,
-    "text": "Was hilft gegen Leinenaggression?",
-    "answers": ["Konsequentes Training.", "Körperliche Strafe.", "Umkonditionierung.", "Ignorieren."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Was ist eine Hundesteuer?",
+    "answers": [
+      "Eine Geldleistung an die Gemeinde für das Halten eines Hundes.",
+      "Eine Tierarztrechnung.",
+      "Eine Versicherung.",
+      "Ein Strafgeld."
+    ],
+    "correct": [0]
   },
   {
     "id": 147,
-    "text": "Wie zeigt ein Hund Revierverhalten?",
-    "answers": ["Bellen am Zaun.", "Markieren.", "Sich verstecken.", "Spielen."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Welche Bedeutung hat die Anmeldung des Hundes bei der Gemeinde?",
+    "answers": [
+      "Keine.",
+      "Erfassung, Steuerpflicht, Kontrolle.",
+      "Nur für große Hunde.",
+      "Zur Vergabe von Spielzeug."
+    ],
+    "correct": [1]
   },
   {
     "id": 148,
-    "text": "Welche Bedeutung hat Bellen am Gartenzaun?",
-    "answers": ["Kommunikation mit Artgenossen.", "Spielaufforderung.", "Revierverhalten.", "Langeweile."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Was muss ein Hundehalter bei einem Wohnortwechsel tun?",
+    "answers": [
+      "Nichts.",
+      "Den Hund verschenken.",
+      "Den Hund erneut bei der neuen Gemeinde anmelden.",
+      "Dem Hund eine neue Leine kaufen."
+    ],
+    "correct": [2]
   },
   {
     "id": 149,
-    "text": "Was kann helfen, übermäßiges Bellen zu reduzieren?",
-    "answers": ["Training.", "Ablenkung.", "Ruhe vermitteln.", "Schreien."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was bedeutet artgerechte Haltung?",
+    "answers": [
+      "Anpassung der Haltung an die Bedürfnisse der Tierart.",
+      "Nur Futter bereitstellen.",
+      "Hund im Zwinger halten.",
+      "Immer alleine halten."
+    ],
+    "correct": [0]
   },
   {
     "id": 150,
-    "text": "Welche Ursachen kann aggressives Verhalten haben?",
-    "answers": ["Angst.", "Dominanz.", "Frust.", "Fehlende Erziehung."],
-    "correct": [0, 1, 2, 3]
+    "category": "Gesetz",
+    "text": "Was kann die Ordnungsbehörde anordnen, wenn ein Hund andere gefährdet?",
+    "answers": [
+      "Ignorieren.",
+      "Maulkorb-, Leinenpflicht oder Halteverbot.",
+      "Spielverbot.",
+      "Urlaub für den Halter."
+    ],
+    "correct": [1]
   },
   {
     "id": 151,
-    "text": "Was ist das Ziel bei der Erziehung aggressiver Hunde?",
-    "answers": ["Gehorsam erzwingen.", "Vertrauen aufbauen.", "Selbstkontrolle fördern.", "Vermeidung von Strafe."],
-    "correct": [1, 2, 3]
+    "category": "Gesetz",
+    "text": "Was passiert bei Zuwiderhandlung gegen Auflagen zur Hundehaltung?",
+    "answers": [
+      "Nichts.",
+      "Ermahnung vom Nachbarn.",
+      "Bußgelder, ggf. Entziehung des Hundes.",
+      "Der Hund bekommt mehr Futter."
+    ],
+    "correct": [2]
   },
   {
     "id": 152,
-    "text": "Wie kann man Aggression vermeiden?",
-    "answers": ["Frühe Sozialisierung.", "Konsequente Erziehung.", "Erfahrung sammeln.", "Konflikte provozieren."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Darf ein gefährlicher Hund mit Maulkorb ohne Leine geführt werden?",
+    "answers": [
+      "Ja, immer.",
+      "Nein, nur mit Ausnahmegenehmigung.",
+      "Nur im Wald.",
+      "Wenn er müde ist."
+    ],
+    "correct": [1]
   },
   {
     "id": 153,
-    "text": "Was zeigt ein Hund bei Ressourcenverteidigung?",
-    "answers": ["Knurren.", "Fixieren.", "Schnappen.", "Wegrennen."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Wie viele große oder gefährliche Hunde dürfen gleichzeitig geführt werden?",
+    "answers": [
+      "So viele wie möglich.",
+      "Nur einer.",
+      "Zwei, wenn Halter sachkundig ist.",
+      "Keine Regelung."
+    ],
+    "correct": [2]
   },
   {
     "id": 154,
-    "text": "Wie kann man Ressourcenaggression vorbeugen?",
-    "answers": ["Tauschspiele.", "Training von Abgabe.", "Strafmaßnahmen.", "Beobachtung."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Wer haftet bei einem Schaden durch einen Hund?",
+    "answers": [
+      "Der Tierarzt.",
+      "Der Halter.",
+      "Der Züchter.",
+      "Die Gemeinde."
+    ],
+    "correct": [1]
   },
   {
     "id": 155,
-    "text": "Was versteht man unter Impulskontrolle beim Hund?",
-    "answers": ["Sofort reagieren.", "Spontane Aggression.", "Beherrschung von Trieben.", "Ruhe trotz Reiz."],
-    "correct": [2, 3]
+    "category": "Gesetz",
+    "text": "Was bedeutet das Prinzip der Verhältnismäßigkeit im Umgang mit Hunden?",
+    "answers": [
+      "Strafe ist immer das Beste.",
+      "Es dürfen nur angemessene Maßnahmen eingesetzt werden.",
+      "Hund darf nicht bellen.",
+      "Keine Bedeutung."
+    ],
+    "correct": [1]
   },
   {
     "id": 156,
-    "text": "Wie kann man Impulskontrolle fördern?",
-    "answers": ["Training mit Reizsetzung.", "Vermeidung aller Reize.", "Belohnung für ruhiges Verhalten.", "Strafe bei Fehlern."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Wer darf in NRW gefährliche Hunde halten?",
+    "answers": [
+      "Jeder.",
+      "Nur Personen mit Erlaubnis der Behörde, Sachkunde und Zuverlässigkeit.",
+      "Nur Männer.",
+      "Nur Hundetrainer."
+    ],
+    "correct": [1]
   },
   {
     "id": 157,
-    "text": "Was bedeutet Frustrationstoleranz?",
-    "answers": ["Der Hund kann mit ausbleibender Belohnung umgehen.", "Er ist nie frustriert.", "Er meidet Stress.", "Er bellt bei Ablehnung."],
+    "category": "Gesetz",
+    "text": "Wie lange gilt eine erteilte Halteerlaubnis?",
+    "answers": [
+      "Lebenslang, sofern keine Verstöße oder Änderungen eintreten.",
+      "Nur ein Jahr.",
+      "Nur 6 Monate.",
+      "Bis der Hund bellt."
+    ],
     "correct": [0]
   },
   {
     "id": 158,
-    "text": "Wie kann Frustration beim Hund reduziert werden?",
-    "answers": ["Klare Regeln.", "Training unter steigender Schwierigkeit.", "Ignorieren.", "Unregelmäßige Belohnung."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was ist bei der Einreise mit gefährlichen Hunden zu beachten?",
+    "answers": [
+      "Einreise ist verboten.",
+      "Erlaubnis nach Einreise beantragen.",
+      "Einreisevorschriften des jeweiligen Bundeslandes/Staates prüfen.",
+      "Der Hund muss tanzen können."
+    ],
+    "correct": [2]
   },
   {
     "id": 159,
-    "text": "Welche Emotionen können Verhalten beeinflussen?",
-    "answers": ["Freude.", "Angst.", "Frust.", "Hunger."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist bei der Erziehung gefährlicher Hunde besonders wichtig?",
+    "answers": [
+      "Strenge allein reicht.",
+      "Konsequenz, positive Verstärkung, soziale Kompetenz des Halters.",
+      "Laute Stimme.",
+      "Häufiges Schimpfen."
+    ],
+    "correct": [1]
   },
   {
     "id": 160,
-    "text": "Was kann zu aggressivem Verhalten führen?",
-    "answers": ["Unzureichende Kommunikation.", "Schmerzen.", "Dominanz.", "Schlechte Erfahrungen."],
-    "correct": [0, 1, 3]
-  }  ,
+    "category": "Gesetz",
+    "text": "Was ist beim Spaziergang in der Stadt mit einem großen Hund zu beachten?",
+    "answers": [
+      "Keine Rücksicht auf andere nehmen.",
+      "Hund darf frei laufen.",
+      "Rücksichtnahme, Leine, ggf. Maulkorb und Kontrolle durch Halter.",
+      "Hund auf dem Arm tragen."
+    ],
+    "correct": [2]
+  },
   {
     "id": 161,
-    "text": "Welche Ursachen kann Angstverhalten haben?",
-    "answers": ["Mangelnde Sozialisierung.", "Negative Erfahrungen.", "Krankheiten.", "Überforderung."],
-    "correct": [0, 1, 2, 3]
+    "category": "Gesetz",
+    "text": "Was ist beim Umgang mit Menschen, die Angst vor Hunden haben, zu beachten?",
+    "answers": [
+      "Keine Rücksicht nehmen.",
+      "Hund frei laufen lassen.",
+      "Rücksicht nehmen, Hund anleinen, Abstand halten.",
+      "Hund bellen lassen."
+    ],
+    "correct": [2]
   },
   {
     "id": 162,
-    "text": "Wie zeigt ein Hund Unsicherheit in einer neuen Umgebung?",
-    "answers": ["Zögerliches Verhalten.", "Schwanz eingezogen.", "Bellen.", "Knurren."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was kann man tun, wenn man merkt, dass andere sich durch den Hund bedroht fühlen?",
+    "answers": [
+      "Ignorieren.",
+      "Hund zu sich nehmen, beruhigen, Gespräch suchen.",
+      "Hund auf die Person zulaufen lassen.",
+      "Laut werden."
+    ],
+    "correct": [1]
   },
   {
     "id": 163,
-    "text": "Was kann die Ursache für aggressives Verhalten gegenüber Artgenossen sein?",
-    "answers": ["Schlechte Erfahrungen.", "Mangelnde Sozialisierung.", "Schmerzen.", "Dominanz."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Wie kann ein Hund anderen Menschen und Tieren vorgestellt werden?",
+    "answers": [
+      "Einfach loslassen.",
+      "Langsam, kontrolliert, mit positiver Verstärkung.",
+      "Gar nicht.",
+      "Mit Leckerli bewerfen."
+    ],
+    "correct": [1]
   },
   {
     "id": 164,
-    "text": "Wie erkennt man Schmerz beim Hund?",
-    "answers": ["Verändertes Verhalten.", "Lahmen.", "Berührungsempfindlichkeit.", "Spielaufforderung."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Wie erkennt man, ob ein Hund sozialverträglich ist?",
+    "answers": [
+      "Er bellt nie.",
+      "Er kann ohne Probleme mit anderen Hunden und Menschen umgehen.",
+      "Er rennt immer.",
+      "Er mag keine Leinen."
+    ],
+    "correct": [1]
   },
   {
     "id": 165,
-    "text": "Wie zeigt ein Hund, dass er Schmerzen hat?",
-    "answers": ["Knurren bei Berührung.", "Rückzug.", "Vermeidungsverhalten.", "Freudiges Schwanzwedeln."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was sollte man bei Begegnungen mit Joggern und Radfahrern beachten?",
+    "answers": [
+      "Hund frei laufen lassen.",
+      "Hund anleinen oder heranrufen und kontrollieren.",
+      "Hund rennen lassen.",
+      "Hund bellen lassen."
+    ],
+    "correct": [1]
   },
   {
     "id": 166,
-    "text": "Was kann Verhaltensänderungen auslösen?",
-    "answers": ["Hormonelle Veränderungen.", "Erkrankungen.", "Stress.", "Tageszeit."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist eine 'Befreiung von der Maulkorbpflicht'?",
+    "answers": [
+      "Maulkorbpflicht entfällt automatisch.",
+      "Ein behördlicher Bescheid bei bestandener Prüfung und Unbedenklichkeit.",
+      "Eine mündliche Aussage.",
+      "Ein Tierarztschreiben."
+    ],
+    "correct": [1]
   },
   {
     "id": 167,
-    "text": "Was sollte bei plötzlich verändertem Verhalten beachtet werden?",
-    "answers": ["Tierärztliche Abklärung.", "Ernährungsumstellung.", "Erhöhung der Spaziergänge.", "Kuscheln."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Was bedeutet 'unabdingbare Aufsicht' über den Hund?",
+    "answers": [
+      "Ab und zu hinschauen.",
+      "Hund nur im Garten lassen.",
+      "Ständige Kontrolle durch eine sachkundige Person.",
+      "Hund alleine lassen."
+    ],
+    "correct": [2]
   },
   {
     "id": 168,
-    "text": "Wie äußert sich Stress durch Unterforderung?",
-    "answers": ["Unruhe.", "Zerstörung von Gegenständen.", "Kratzen.", "Aggression."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was gehört zur Kontrolle über den Hund im öffentlichen Raum?",
+    "answers": [
+      "Nur das Rufen.",
+      "Vorausschauendes Verhalten, Aufmerksamkeit, Reaktion auf Signale.",
+      "Gar nichts.",
+      "Der Hund macht, was er will."
+    ],
+    "correct": [1]
   },
   {
     "id": 169,
-    "text": "Wie kann man Stress durch Überforderung vermeiden?",
-    "answers": ["Angepasstes Training.", "Ausreichende Pausen.", "Klares Ziel.", "Strafe."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was bedeutet 'tiergerechte Erziehung'?",
+    "answers": [
+      "Strenge und Gewalt.",
+      "Ausrichtung an den Bedürfnissen und Möglichkeiten des Hundes mit positiver Verstärkung.",
+      "Ignorieren von Fehlverhalten.",
+      "Tägliches Schimpfen."
+    ],
+    "correct": [1]
   },
   {
     "id": 170,
-    "text": "Was bedeutet Frustration beim Hund?",
-    "answers": ["Nicht erreichen eines Ziels.", "Verletzung.", "Überforderung.", "Lernfreude."],
-    "correct": [0]
+    "category": "Gesetz",
+    "text": "Was ist ein tierschutzgerechter Maulkorb?",
+    "answers": [
+      "Einfacher Stoffmaulkorb.",
+      "Maulkorb, der Hecheln und Trinken ermöglicht und gut sitzt.",
+      "Kleiner Kindermaulkorb.",
+      "Metallkorb ohne Polster."
+    ],
+    "correct": [1]
   },
   {
     "id": 171,
-    "text": "Wie zeigt ein Hund Frustration?",
-    "answers": ["Jaulen.", "Anspringen.", "Bellen.", "Ruhig sitzen."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Was ist eine Erlaubnispflicht für bestimmte Hunderassen?",
+    "answers": [
+      "Nur Empfehlung.",
+      "Vorschrift zur Haltungserlaubnis gefährlicher Hunde.",
+      "Freiwillige Anmeldung.",
+      "Züchtungserlaubnis."
+    ],
+    "correct": [1]
   },
   {
     "id": 172,
-    "text": "Welche Maßnahmen helfen bei Trennungsstress?",
-    "answers": ["Langsames Alleinlassen trainieren.", "Strafe.", "Rituale einführen.", "Ruhe bewahren."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Wann liegt eine Ordnungswidrigkeit bei der Hundehaltung vor?",
+    "answers": [
+      "Bei Verstoß gegen Vorschriften des LHundG NRW.",
+      "Bei zu viel Auslauf.",
+      "Bei bellenden Hunden.",
+      "Wenn der Hund schläft."
+    ],
+    "correct": [0]
   },
   {
     "id": 173,
-    "text": "Was ist wichtig beim Training von Leinenführigkeit?",
-    "answers": ["Geduld.", "Konsequenz.", "Körperliche Strafe.", "Belohnung von richtigem Verhalten."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was bedeutet Sozialisation bei Hunden?",
+    "answers": [
+      "Gewöhnung an Artgenossen, Menschen und Umweltreize in sensibler Phase.",
+      "Fütterung mit Sozialfutter.",
+      "Training im Rudel.",
+      "Vermeidung von Kontakten."
+    ],
+    "correct": [0]
   },
   {
     "id": 174,
-    "text": "Welche Ausrüstung ist für die Leinenführigkeit sinnvoll?",
-    "answers": ["Brustgeschirr.", "Flexileine.", "Schleppleine (für das Training).", "Stachelhalsband."],
-    "correct": [0, 2]
+    "category": "Gesetz",
+    "text": "Was sollte bei der Auswahl eines Hundes beachtet werden?",
+    "answers": [
+      "Rassemerkmale, Erfahrung, Lebensumfeld, Zeit und Möglichkeiten.",
+      "Nur Aussehen.",
+      "Nur Preis.",
+      "Lautstärke."
+    ],
+    "correct": [0]
   },
   {
     "id": 175,
-    "text": "Was sollte bei Begegnungen mit Artgenossen an der Leine vermieden werden?",
-    "answers": ["Anspannung der Leine.", "Frontaler Kontakt.", "Korrigierendes Anschreien.", "Körperspannung beim Halter."],
-    "correct": [0, 1, 2, 3]
+    "category": "Gesetz",
+    "text": "Wie erkenne ich Stress beim Hund?",
+    "answers": [
+      "Hecheln, Zittern, Rückzug, Unruhe.",
+      "Schlafen.",
+      "Freude.",
+      "Spielverhalten."
+    ],
+    "correct": [0]
   },
   {
     "id": 176,
-    "text": "Wie können Spaziergänge gestaltet werden, um den Hund geistig auszulasten?",
-    "answers": ["Schnüffelspiele.", "Suchspiele.", "Gehorsamsübungen.", "Reines Laufen an kurzer Leine."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist wichtig bei Kindern und Hunden?",
+    "answers": [
+      "Kinder dürfen alles mit dem Hund machen.",
+      "Hund muss erzogen sein, Kind muss angeleitet werden, Aufsicht durch Erwachsene.",
+      "Der Hund darf nicht mit Kindern leben.",
+      "Nur Erwachsene haben Hunde."
+    ],
+    "correct": [1]
   },
   {
     "id": 177,
-    "text": "Was ist bei Hundebegegnungen im Freilauf wichtig?",
-    "answers": ["Körpersprache lesen.", "Ansprechbarkeit des Hundes.", "Rückrufbereitschaft.", "Ignorieren des Verhaltens."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was ist eine Pflichtlektüre zur Vorbereitung auf die Sachkundeprüfung?",
+    "answers": [
+      "Gesetzestexte, offizielle Fragenkataloge, Lernmaterialien.",
+      "Hundekrimis.",
+      "Instagram-Posts.",
+      "Erfahrungsberichte aus Foren."
+    ],
+    "correct": [0]
   },
   {
     "id": 178,
-    "text": "Was fördert die Bindung zwischen Hund und Halter?",
-    "answers": ["Gemeinsame Aktivitäten.", "Strafe.", "Zwang.", "Klares, freundliches Verhalten."],
-    "correct": [0, 3]
+    "category": "Gesetz",
+    "text": "Was sollte bei der Belohnung eines Hundes beachtet werden?",
+    "answers": [
+      "Rechtzeitigkeit, Passung zur Situation, Motivation des Hundes.",
+      "Immer nur Leckerli.",
+      "Belohnung nach Stunden.",
+      "Zufälligkeit."
+    ],
+    "correct": [0]
   },
   {
     "id": 179,
-    "text": "Welche Regeln helfen im Alltag mit Hund?",
-    "answers": ["Konsistenz.", "Klare Strukturen.", "Regelmäßige Belohnung.", "Unvorhersehbarkeit."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was gehört zu einer sicheren Hundehaltung?",
+    "answers": [
+      "Angemessene Sicherung, Aufsicht, Erziehung, Rücksicht.",
+      "Hund auf dem Balkon.",
+      "Hund allein lassen.",
+      "Hund nicht anleinen."
+    ],
+    "correct": [0]
   },
   {
     "id": 180,
-    "text": "Was ist bei Hundebegegnungen besonders wichtig?",
-    "answers": ["Ruhe bewahren.", "Hund lesen lernen.", "Körperlich eingreifen.", "Sozialisierung fördern."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Wie lässt sich Hundeverhalten einschätzen?",
+    "answers": [
+      "Durch Kenntnis über Ausdrucksverhalten, Körpersprache, Erfahrung.",
+      "Durch Raten.",
+      "Durch Schimpfen.",
+      "Durch Bellen lassen."
+    ],
+    "correct": [0]
   },
   {
     "id": 181,
-    "text": "Was ist der Unterschied zwischen Erziehung und Ausbildung?",
-    "answers": ["Erziehung betrifft Alltagsverhalten, Ausbildung spezielle Aufgaben.", "Ausbildung ist unwichtiger.", "Erziehung bedeutet Belohnung, Ausbildung Strafe.", "Erziehung ist nur bei Welpen nötig."],
+    "category": "Gesetz",
+    "text": "Welche Aussagen zur Hundehaltung treffen zu?",
+    "answers": [
+      "Artgerechte Haltung, Sozialkontakte, Auslastung, Verantwortung.",
+      "Hund darf nie raus.",
+      "Hund muss bellen.",
+      "Nur große Hunde sind pflegeleicht."
+    ],
     "correct": [0]
   },
   {
     "id": 182,
-    "text": "Was ist bei der Auswahl eines Trainers wichtig?",
-    "answers": ["Gewaltfreies Training.", "Transparenz.", "Zwangsmaßnahmen.", "Einfühlungsvermögen."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Warum ist Leinenpflicht sinnvoll?",
+    "answers": [
+      "Schutz vor Gefahren, Rücksicht auf andere, Kontrolle.",
+      "Weil Hunde nicht rennen sollen.",
+      "Nur zur Strafe.",
+      "Zum Spielen."
+    ],
+    "correct": [0]
   },
   {
     "id": 183,
-    "text": "Wie kann man die Körpersprache des Hundes deuten lernen?",
-    "answers": ["Beobachtung.", "Fachliteratur.", "Kurse.", "Strafe."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was kann helfen, einen Hund sicher zu führen?",
+    "answers": [
+      "Training, Bindung, Körpersprache, richtige Ausrüstung.",
+      "Ziehen an der Leine.",
+      "Lautes Rufen.",
+      "Freilauf überall."
+    ],
+    "correct": [0]
   },
   {
     "id": 184,
-    "text": "Was ist bei der Ernährung wichtig?",
-    "answers": ["Ausgewogenheit.", "Bedarfsgerechte Menge.", "Leckerli als Alleinfutter.", "Anpassung an Aktivität."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was ist bei Begegnungen mit anderen Hunden wichtig?",
+    "answers": [
+      "Beobachtung, Rücksicht, ggf. Abstand, Kommunikation mit anderen Haltern.",
+      "Ignorieren.",
+      "Hund immer loslassen.",
+      "Lautes Bellen fördern."
+    ],
+    "correct": [0]
   },
   {
     "id": 185,
-    "text": "Was gehört zur Gesundheitsvorsorge beim Hund?",
-    "answers": ["Impfungen.", "Entwurmung.", "Zwangsruhe.", "Kontrolle von Parasiten."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was ist das Ziel des Sachkundenachweises?",
+    "answers": [
+      "Sicherheit für Mensch und Tier durch kompetente Haltung.",
+      "Rechtsstreit vermeiden.",
+      "Freizeitbeschäftigung.",
+      "Hund verkaufen."
+    ],
+    "correct": [0]
   },
   {
     "id": 186,
-    "text": "Was ist Ziel der Sachkundeprüfung nach LHundG NRW?",
-    "answers": ["Nachweis des theoretischen Wissens zur Hundehaltung.", "Beurteilung der Optik des Hundes.", "Nachweis der Rasse.", "Prüfung des Tierarztes."],
+    "category": "Gesetz",
+    "text": "Was bedeutet Körpersprache beim Hund?",
+    "answers": [
+      "Ausdruck von Emotionen, Absichten, Stimmung durch Haltung, Mimik, Bewegung.",
+      "Bellen.",
+      "Spielen.",
+      "Schnarchen."
+    ],
     "correct": [0]
   },
   {
     "id": 187,
-    "text": "Wer muss die Sachkundeprüfung ablegen?",
-    "answers": ["Ersthundebesitzer bestimmter Rassen.", "Jeder Hundebesitzer.", "Besitzer von Kleintieren.", "Züchter von Katzen."],
+    "category": "Gesetz",
+    "text": "Wie lässt sich Aggressionsverhalten vermeiden?",
+    "answers": [
+      "Früherkennung, Management, Erziehung, positive Erfahrungen.",
+      "Strafen.",
+      "Laute Umgebung.",
+      "Keine Kontakte."
+    ],
     "correct": [0]
   },
   {
     "id": 188,
-    "text": "Was beinhaltet die Sachkundeprüfung?",
-    "answers": ["Multiple-Choice-Fragen.", "Praktische Prüfung.", "Sportliche Übungen.", "Wesenstest."],
+    "category": "Gesetz",
+    "text": "Warum ist positive Verstärkung sinnvoll?",
+    "answers": [
+      "Fördert gewünschtes Verhalten, Motivation, gute Bindung.",
+      "Hund wird dick.",
+      "Hund hört nie.",
+      "Hund bellt mehr."
+    ],
     "correct": [0]
   },
   {
     "id": 189,
-    "text": "Wer nimmt die Sachkundeprüfung ab?",
-    "answers": ["Tierarzt.", "Polizei.", "Veterinäramt.", "Hundetrainer."],
+    "category": "Gesetz",
+    "text": "Was ist ein sicheres Zeichen für Spielverhalten?",
+    "answers": [
+      "Spielaufforderung durch Vorderkörper-Tiefstellung, offene Körpersprache.",
+      "Knurren.",
+      "Starres Fixieren.",
+      "Bellen mit Zähnefletschen."
+    ],
     "correct": [0]
   },
   {
     "id": 190,
-    "text": "Welche Gesetze gelten bei der Hundehaltung in NRW?",
-    "answers": ["LHundG NRW.", "Tierschutzgesetz.", "Jagdgesetz.", "Straßenverkehrsordnung."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was bedeutet Impulskontrolle beim Hund?",
+    "answers": [
+      "Nicht sofort auf Reize reagieren, Selbstbeherrschung.",
+      "Immer losrennen.",
+      "Immer bellen.",
+      "Immer schlafen."
+    ],
+    "correct": [0]
   },
   {
     "id": 191,
-    "text": "Welche Pflichten ergeben sich aus dem LHundG NRW?",
-    "answers": ["Sachkunde.", "Anleinpflicht.", "Haftpflichtversicherung.", "Steuerpflicht."],
-    "correct": [0, 1, 2, 3]
+    "category": "Gesetz",
+    "text": "Was ist Frustration beim Hund?",
+    "answers": [
+      "Unzufriedenheit, wenn Ziel nicht erreicht wird – kann zu unerwünschtem Verhalten führen.",
+      "Freude.",
+      "Erholung.",
+      "Hunger."
+    ],
+    "correct": [0]
   },
   {
     "id": 192,
-    "text": "Was ist bei der Haltung großer Hunde zu beachten?",
-    "answers": ["Anmeldung bei der Behörde.", "Sachkundenachweis.", "Maulkorbpflicht.", "Eignung der Wohnung."],
-    "correct": [0, 1]
+    "category": "Gesetz",
+    "text": "Was fördert eine gute Mensch-Hund-Beziehung?",
+    "answers": [
+      "Verlässlichkeit, Klarheit, positive Erfahrungen, Kommunikation.",
+      "Strafen.",
+      "Ignoranz.",
+      "Wechselnde Regeln."
+    ],
+    "correct": [0]
   },
   {
     "id": 193,
-    "text": "Was muss ein Halter von Hunden bestimmter Rassen nachweisen?",
-    "answers": ["Sachkunde.", "Zuverlässigkeit.", "Besondere Kenntnisse.", "Führungszeugnis."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Was ist bei Spaziergängen in der Natur zu beachten?",
+    "answers": [
+      "Leinenpflicht in Schutzgebieten, Rücksicht auf Tiere und Menschen.",
+      "Hunde frei jagen lassen.",
+      "Nur nachts spazieren.",
+      "Immer bellen."
+    ],
+    "correct": [0]
   },
   {
     "id": 194,
-    "text": "Was regelt das Tierschutzgesetz?",
-    "answers": ["Schutz des Lebens und Wohlbefindens von Tieren.", "Nutzung von Tieren für Forschung.", "Regeln für Tierhaltung.", "Strafen für Tierquälerei."],
-    "correct": [0, 2, 3]
+    "category": "Gesetz",
+    "text": "Was bedeutet Rückrufsignal?",
+    "answers": [
+      "Signal, das dem Hund bedeutet, sofort zurückzukommen.",
+      "Futterruf.",
+      "Spielaufforderung.",
+      "Schimpfen."
+    ],
+    "correct": [0]
   },
   {
     "id": 195,
-    "text": "Welche Hunde gelten als gefährlich nach LHundG NRW?",
-    "answers": ["Pitbull Terrier.", "American Staffordshire Terrier.", "Staffordshire Bullterrier.", "Bullterrier."],
-    "correct": [0, 1, 2, 3]
+    "category": "Gesetz",
+    "text": "Was ist wichtig bei der Haltung mehrerer Hunde?",
+    "answers": [
+      "Individuelle Bedürfnisse, klare Regeln, Training, Beobachtung.",
+      "Nur Futter geben.",
+      "Alle frei laufen lassen.",
+      "Einer reicht als Chef."
+    ],
+    "correct": [0]
   },
   {
     "id": 196,
-    "text": "Welche besonderen Anforderungen gelten für gefährliche Hunde?",
-    "answers": ["Haltungsgenehmigung.", "Maulkorbpflicht.", "Haftpflichtversicherung.", "Unbegrenzter Freilauf."],
-    "correct": [0, 1, 2]
+    "category": "Gesetz",
+    "text": "Was sind Merkmale eines tierschutzwidrigen Zwingers?",
+    "answers": [
+      "Kein Schutz, Isolation, keine Bewegung, Reizarmut.",
+      "Spielzeug vorhanden.",
+      "Kuscheldecken.",
+      "Fenster."
+    ],
+    "correct": [0]
   },
   {
     "id": 197,
-    "text": "Was gilt bei Verstößen gegen das LHundG NRW?",
-    "answers": ["Bußgeld.", "Maßnahmen durch Behörden.", "Keine Konsequenzen.", "Verwarnung."],
-    "correct": [0, 1, 3]
+    "category": "Gesetz",
+    "text": "Wie kann man Hundeverhalten positiv beeinflussen?",
+    "answers": [
+      "Mit Geduld, Konsequenz, Belohnung, Training.",
+      "Mit Strafen.",
+      "Mit Bellen.",
+      "Mit Ignorieren."
+    ],
+    "correct": [0]
   }
 ]
+
+
+

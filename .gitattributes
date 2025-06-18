@@ -1,0 +1,26 @@
+# Stelle sicher, dass Textdateien einheitlich behandelt werden
+* text=auto eol=lf
+
+# Code-Dateien: Zeige korrekte Sprache in GitHub
+*.js     linguist-language=JavaScript
+*.jsx    linguist-language=JavaScript
+*.ts     linguist-language=TypeScript
+*.tsx    linguist-language=TypeScript
+*.json   linguist-language=JSON
+*.md     linguist-language=Markdown
+
+# Binary-Dateien
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.ttf    binary
+*.otf    binary
+*.woff   binary
+*.woff2  binary
+
+# Keine automatische Merge-Versuche bei APKs, Assets etc.
+*.apk    merge=ours
+*.aab    merge=ours
+*.keystore merge=ours
