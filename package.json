@@ -23,7 +23,7 @@
     "react-native-screens": "~3.29.0",
     "react-native-vector-icons": "^9.2.0",
     "metro": "^0.79.1",
-    "@expo/metro-config": "^0.13.5"
+    "@expo/metro-config": "^0.12.3"
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
